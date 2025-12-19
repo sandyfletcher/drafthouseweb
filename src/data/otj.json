@@ -1,0 +1,5830 @@
+[
+  {
+    "id": "4f8dc511-e307-4412-bb79-375a6077312d",
+    "name": "Another Round",
+    "set": "otj",
+    "collector_number": "1",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{X}{X}{2}{W}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/4f8dc511-e307-4412-bb79-375a6077312d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times."
+  },
+  {
+    "id": "c853d04c-864b-491c-8c6f-72d2d4874d2f",
+    "name": "Archangel of Tithes",
+    "set": "otj",
+    "collector_number": "2",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{1}{W}{W}{W}",
+    "cmc": 4,
+    "type_line": "Creature — Angel",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c853d04c-864b-491c-8c6f-72d2d4874d2f_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nAs long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.\nAs long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures."
+  },
+  {
+    "id": "263232df-69b8-4205-93ad-c724fe57ec11",
+    "name": "Armored Armadillo",
+    "set": "otj",
+    "collector_number": "3",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Creature — Armadillo",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/263232df-69b8-4205-93ad-c724fe57ec11_f.jpg",
+    "back_image": null,
+    "oracle_text": "Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)\n{3}{W}: This creature gets +X/+0 until end of turn, where X is its toughness."
+  },
+  {
+    "id": "d3ca43a4-d194-440f-8099-f1fa103a108d",
+    "name": "Aven Interrupter",
+    "set": "otj",
+    "collector_number": "4",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{W}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Bird Rogue",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/d3ca43a4-d194-440f-8099-f1fa103a108d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nFlying\nWhen this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)\nSpells your opponents cast from graveyards or from exile cost {2} more to cast."
+  },
+  {
+    "id": "8925279f-c16a-43b4-b791-ce450157275b",
+    "name": "Bounding Felidar",
+    "set": "otj",
+    "collector_number": "5",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{5}{W}",
+    "cmc": 6,
+    "type_line": "Creature — Cat Beast Mount",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/8925279f-c16a-43b4-b791-ce450157275b_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks while saddled, put a +1/+1 counter on each other creature you control. You gain 1 life for each of those creatures.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "26c36742-456f-4618-99bc-793ef20b31b0",
+    "name": "Bovine Intervention",
+    "set": "otj",
+    "collector_number": "6",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/26c36742-456f-4618-99bc-793ef20b31b0_f.jpg",
+    "back_image": null,
+    "oracle_text": "Destroy target artifact or creature. Its controller creates a 2/2 white Ox creature token."
+  },
+  {
+    "id": "fa7bf089-fa9b-4ffc-bf84-45cd51c76463",
+    "name": "Bridled Bighorn",
+    "set": "otj",
+    "collector_number": "7",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Creature — Sheep Mount",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/fa7bf089-fa9b-4ffc-bf84-45cd51c76463_f.jpg",
+    "back_image": null,
+    "oracle_text": "Vigilance\nWhenever this creature attacks while saddled, create a 1/1 white Sheep creature token.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "654ade6b-0369-4b90-a744-2f57a45b04f4",
+    "name": "Claim Jumper",
+    "set": "otj",
+    "collector_number": "8",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Rabbit Mercenary",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/654ade6b-0369-4b90-a744-2f57a45b04f4_f.jpg",
+    "back_image": null,
+    "oracle_text": "Vigilance\nWhen this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle."
+  },
+  {
+    "id": "70719e7b-6f02-4c1a-9f11-79b2b0d9846a",
+    "name": "Dust Animus",
+    "set": "otj",
+    "collector_number": "9",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Spirit",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/70719e7b-6f02-4c1a-9f11-79b2b0d9846a_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nIf you control five or more untapped lands, this creature enters with two +1/+1 counters and a lifelink counter on it.\nPlot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "184c18b6-40e2-4f7f-a3bb-49bc695b68ec",
+    "name": "Eriette's Lullaby",
+    "set": "otj",
+    "collector_number": "10",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/184c18b6-40e2-4f7f-a3bb-49bc695b68ec_f.jpg",
+    "back_image": null,
+    "oracle_text": "Destroy target tapped creature. You gain 2 life."
+  },
+  {
+    "id": "358968f9-45bd-4022-b6bc-f1f7e0adf0e7",
+    "name": "Final Showdown",
+    "set": "otj",
+    "collector_number": "11",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/358968f9-45bd-4022-b6bc-f1f7e0adf0e7_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — All creatures lose all abilities until end of turn.\n+ {1} — Choose a creature you control. It gains indestructible until end of turn.\n+ {3}{W}{W} — Destroy all creatures."
+  },
+  {
+    "id": "069294a8-e65a-47af-942f-7e99d18658f2",
+    "name": "Fortune, Loyal Steed",
+    "set": "otj",
+    "collector_number": "12",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Beast Mount",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/069294a8-e65a-47af-942f-7e99d18658f2_f.jpg",
+    "back_image": null,
+    "oracle_text": "When Fortune enters, scry 2.\nWhenever Fortune attacks while saddled, at end of combat, exile it and up to one creature that saddled it this turn, then return those cards to the battlefield under their owner's control.\nSaddle 1"
+  },
+  {
+    "id": "9368cc76-bee5-4b46-a309-981106c3addf",
+    "name": "Frontier Seeker",
+    "set": "otj",
+    "collector_number": "13",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Human Scout",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/9368cc76-bee5-4b46-a309-981106c3addf_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, look at the top five cards of your library. You may reveal a Mount creature card or a Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+  },
+  {
+    "id": "69689049-a704-4f16-84ee-4d5d915028ec",
+    "name": "Getaway Glamer",
+    "set": "otj",
+    "collector_number": "14",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/69689049-a704-4f16-84ee-4d5d915028ec_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Exile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step.\n+ {2} — Destroy target creature if no other creature has greater power."
+  },
+  {
+    "id": "9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8",
+    "name": "High Noon",
+    "set": "otj",
+    "collector_number": "15",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Enchantment",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8_f.jpg",
+    "back_image": null,
+    "oracle_text": "Each player can't cast more than one spell each turn.\n{4}{R}, Sacrifice this enchantment: It deals 5 damage to any target."
+  },
+  {
+    "id": "90de84c9-941b-4056-8501-ce8a948b9643",
+    "name": "Holy Cow",
+    "set": "otj",
+    "collector_number": "16",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Ox Angel",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/90de84c9-941b-4056-8501-ce8a948b9643_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nFlying\nWhen this creature enters, you gain 2 life and scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+  },
+  {
+    "id": "b6b36bb3-dacc-44f6-adcd-2c2d65513d8c",
+    "name": "Inventive Wingsmith",
+    "set": "otj",
+    "collector_number": "17",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Dwarf Artificer",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b6b36bb3-dacc-44f6-adcd-2c2d65513d8c_f.jpg",
+    "back_image": null,
+    "oracle_text": "At the beginning of your end step, if you haven't cast a spell from your hand this turn and this creature doesn't have a flying counter on it, put a flying counter on it."
+  },
+  {
+    "id": "ea96eeac-c316-4247-a81f-0ddf52675ebf",
+    "name": "Lassoed by the Law",
+    "set": "otj",
+    "collector_number": "18",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Enchantment",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/ea96eeac-c316-4247-a81f-0ddf52675ebf_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+  },
+  {
+    "id": "18344498-952e-489c-8b03-bd1bef4c26ca",
+    "name": "Mystical Tether",
+    "set": "otj",
+    "collector_number": "19",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/18344498-952e-489c-8b03-bd1bef4c26ca_f.jpg",
+    "back_image": null,
+    "oracle_text": "You may cast this spell as though it had flash if you pay {2} more to cast it.\nWhen this enchantment enters, exile target artifact or creature an opponent controls until this enchantment leaves the battlefield."
+  },
+  {
+    "id": "0fe155f6-888b-41a0-a9a0-be7bea998718",
+    "name": "Nurturing Pixie",
+    "set": "otj",
+    "collector_number": "20",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Creature — Faerie Rogue",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/0fe155f6-888b-41a0-a9a0-be7bea998718_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nWhen this creature enters, return up to one target non-Faerie, nonland permanent you control to its owner's hand. If a permanent was returned this way, put a +1/+1 counter on this creature."
+  },
+  {
+    "id": "7ecd8b6f-b9aa-466a-909c-3209beef8244",
+    "name": "Omenport Vigilante",
+    "set": "otj",
+    "collector_number": "21",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Human Mercenary",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/7ecd8b6f-b9aa-466a-909c-3209beef8244_f.jpg",
+    "back_image": null,
+    "oracle_text": "This creature has double strike as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "71bfbfae-e7eb-4f80-81c6-9ab6a1bbd39d",
+    "name": "One Last Job",
+    "set": "otj",
+    "collector_number": "22",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/71bfbfae-e7eb-4f80-81c6-9ab6a1bbd39d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2} — Return target creature card from your graveyard to the battlefield.\n+ {1} — Return target Mount or Vehicle card from your graveyard to the battlefield.\n+ {1} — Return target Aura or Equipment card from your graveyard to the battlefield attached to a creature you control."
+  },
+  {
+    "id": "2feaa51e-47fb-4849-b420-ee7278f3489a",
+    "name": "Outlaw Medic",
+    "set": "otj",
+    "collector_number": "23",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/2feaa51e-47fb-4849-b420-ee7278f3489a_f.jpg",
+    "back_image": null,
+    "oracle_text": "Lifelink\nWhen this creature dies, draw a card."
+  },
+  {
+    "id": "37302b5d-e528-4baa-947a-c859e4ddcff9",
+    "name": "Prairie Dog",
+    "set": "otj",
+    "collector_number": "24",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Squirrel",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/37302b5d-e528-4baa-947a-c859e4ddcff9_f.jpg",
+    "back_image": null,
+    "oracle_text": "Lifelink\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, put a +1/+1 counter on this creature.\n{4}{W}: Until end of turn, if you would put one or more +1/+1 counters on a creature you control, put that many plus one +1/+1 counters on it instead."
+  },
+  {
+    "id": "f87824f3-aa9f-4d3d-99f7-0fbca43d8a51",
+    "name": "Prosperity Tycoon",
+    "set": "otj",
+    "collector_number": "25",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Creature — Human Noble",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f87824f3-aa9f-4d3d-99f7-0fbca43d8a51_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\n{2}, Sacrifice a token: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say \"destroy\" don't destroy it.)"
+  },
+  {
+    "id": "154e9ba9-0d0e-4b0e-acf2-f66a993cf3a2",
+    "name": "Requisition Raid",
+    "set": "otj",
+    "collector_number": "26",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Sorcery",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/154e9ba9-0d0e-4b0e-acf2-f66a993cf3a2_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Destroy target artifact.\n+ {1} — Destroy target enchantment.\n+ {1} — Put a +1/+1 counter on each creature target player controls."
+  },
+  {
+    "id": "33ed7ca3-894b-45f4-a15f-51b6bcd3f474",
+    "name": "Rustler Rampage",
+    "set": "otj",
+    "collector_number": "27",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/33ed7ca3-894b-45f4-a15f-51b6bcd3f474_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Untap all creatures target player controls.\n+ {1} — Target creature gains double strike until end of turn."
+  },
+  {
+    "id": "c2245f36-2138-4f01-9b70-151137a5ac59",
+    "name": "Shepherd of the Clouds",
+    "set": "otj",
+    "collector_number": "28",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{4}{W}",
+    "cmc": 5,
+    "type_line": "Creature — Pegasus",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c2245f36-2138-4f01-9b70-151137a5ac59_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, vigilance\nWhen this creature enters, return target permanent card with mana value 3 or less from your graveyard to your hand. Return that card to the battlefield instead if you control a Mount."
+  },
+  {
+    "id": "c38a845d-f25d-45ab-9154-3fa5291b0ba0",
+    "name": "Sheriff of Safe Passage",
+    "set": "otj",
+    "collector_number": "29",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Human Knight",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c38a845d-f25d-45ab-9154-3fa5291b0ba0_f.jpg",
+    "back_image": null,
+    "oracle_text": "This creature enters with a +1/+1 counter on it plus an additional +1/+1 counter on it for each other creature you control.\nPlot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "21301998-b3e6-4f3d-89f4-5e17aeb79a1e",
+    "name": "Stagecoach Security",
+    "set": "otj",
+    "collector_number": "30",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{W}",
+    "cmc": 5,
+    "type_line": "Creature — Human Soldier",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/21301998-b3e6-4f3d-89f4-5e17aeb79a1e_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.\nPlot {3}{W} (You may pay {3}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "523a4d6e-122b-49b4-bf3d-17d29c0007fb",
+    "name": "Steer Clear",
+    "set": "otj",
+    "collector_number": "31",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{W}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/523a4d6e-122b-49b4-bf3d-17d29c0007fb_f.jpg",
+    "back_image": null,
+    "oracle_text": "Steer Clear deals 2 damage to target attacking or blocking creature. Steer Clear deals 4 damage to that creature instead if you controlled a Mount as you cast this spell."
+  },
+  {
+    "id": "019d539f-04c2-43f1-8677-6d6fbb0e94f7",
+    "name": "Sterling Keykeeper",
+    "set": "otj",
+    "collector_number": "32",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Human Mercenary",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/019d539f-04c2-43f1-8677-6d6fbb0e94f7_f.jpg",
+    "back_image": null,
+    "oracle_text": "{2}, {T}: Tap target non-Mount creature."
+  },
+  {
+    "id": "b6000be7-67db-440e-87ba-276df20b803e",
+    "name": "Sterling Supplier",
+    "set": "otj",
+    "collector_number": "33",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{W}",
+    "cmc": 5,
+    "type_line": "Creature — Bird Soldier",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b6000be7-67db-440e-87ba-276df20b803e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nWhen this creature enters, put a +1/+1 counter on another target creature you control."
+  },
+  {
+    "id": "76a31968-ba6d-4c01-838f-4cb8c64e73fb",
+    "name": "Take Up the Shield",
+    "set": "otj",
+    "collector_number": "34",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/76a31968-ba6d-4c01-838f-4cb8c64e73fb_f.jpg",
+    "back_image": null,
+    "oracle_text": "Put a +1/+1 counter on target creature. It gains lifelink and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+  },
+  {
+    "id": "73dff5fc-2adf-447a-b35f-e7883e0fd821",
+    "name": "Thunder Lasso",
+    "set": "otj",
+    "collector_number": "35",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Artifact — Equipment",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/73dff5fc-2adf-447a-b35f-e7883e0fd821_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +1/+1.\nWhenever equipped creature attacks, tap target creature defending player controls.\nEquip {2}"
+  },
+  {
+    "id": "ef32a5f8-f69d-47dc-a800-4f0ddf4eada5",
+    "name": "Trained Arynx",
+    "set": "otj",
+    "collector_number": "36",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Cat Beast Mount",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/ef32a5f8-f69d-47dc-a800-4f0ddf4eada5_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks while saddled, it gains first strike until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "2df404af-571a-4867-83f5-bb4163b433ff",
+    "name": "Vengeful Townsfolk",
+    "set": "otj",
+    "collector_number": "37",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Human Citizen",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/2df404af-571a-4867-83f5-bb4163b433ff_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever one or more other creatures you control die, put a +1/+1 counter on this creature."
+  },
+  {
+    "id": "624a176b-fe24-4441-8877-464cf172ccff",
+    "name": "Wanted Griffin",
+    "set": "otj",
+    "collector_number": "38",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{W}",
+    "cmc": 4,
+    "type_line": "Creature — Griffin",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/624a176b-fe24-4441-8877-464cf172ccff_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nWhen this creature dies, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+  },
+  {
+    "id": "a440bbd6-8e51-4db1-90d9-7fa9fc327ad5",
+    "name": "Archmage's Newt",
+    "set": "otj",
+    "collector_number": "39",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Salamander Mount",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/a440bbd6-8e51-4db1-90d9-7fa9fc327ad5_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if this creature is saddled. (You may cast that card from your graveyard for its flashback cost. Then exile it.)\nSaddle 3"
+  },
+  {
+    "id": "b740a8a8-e1d3-4642-a214-03731c9b5553",
+    "name": "Canyon Crab",
+    "set": "otj",
+    "collector_number": "40",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Crab",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b740a8a8-e1d3-4642-a214-03731c9b5553_f.jpg",
+    "back_image": null,
+    "oracle_text": "{1}{U}: This creature gets +2/-2 until end of turn.\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card, then discard a card."
+  },
+  {
+    "id": "b41a2bf7-248c-4f8b-92ec-3010d276cb59",
+    "name": "Daring Thunder-Thief",
+    "set": "otj",
+    "collector_number": "41",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Turtle Rogue",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b41a2bf7-248c-4f8b-92ec-3010d276cb59_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nThis creature enters tapped."
+  },
+  {
+    "id": "f95ee726-7465-40f8-a954-19b19e636c12",
+    "name": "Deepmuck Desperado",
+    "set": "otj",
+    "collector_number": "42",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Creature — Homarid Mercenary",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f95ee726-7465-40f8-a954-19b19e636c12_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime, each opponent mills three cards. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "48bfc6af-c651-485e-a1cc-f9d00aeaf812",
+    "name": "Djinn of Fool's Fall",
+    "set": "otj",
+    "collector_number": "43",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{U}",
+    "cmc": 5,
+    "type_line": "Creature — Djinn",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/48bfc6af-c651-485e-a1cc-f9d00aeaf812_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "8ecccdf3-98c6-4aed-8757-913623efb677",
+    "name": "Double Down",
+    "set": "otj",
+    "collector_number": "44",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Enchantment",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/8ecccdf3-98c6-4aed-8757-913623efb677_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)"
+  },
+  {
+    "id": "2b58e47b-c165-4a58-aa2a-033a35645adc",
+    "name": "Duelist of the Mind",
+    "set": "otj",
+    "collector_number": "45",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Human Advisor",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/2b58e47b-c165-4a58-aa2a-033a35645adc_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, vigilance\nDuelist of the Mind's power is equal to the number of cards you've drawn this turn.\nWhenever you commit a crime, you may draw a card. If you do, discard a card. This ability triggers only once each turn."
+  },
+  {
+    "id": "623053a8-7abe-45ec-9f26-97e1c037120b",
+    "name": "Emergent Haunting",
+    "set": "otj",
+    "collector_number": "46",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Enchantment",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/623053a8-7abe-45ec-9f26-97e1c037120b_f.jpg",
+    "back_image": null,
+    "oracle_text": "At the beginning of your end step, if you haven't cast a spell from your hand this turn and this enchantment isn't a creature, it becomes a 3/3 Spirit creature with flying in addition to its other types.\n{2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+  },
+  {
+    "id": "62bbe11b-e959-4080-98ac-09bd57519c00",
+    "name": "Failed Fording",
+    "set": "otj",
+    "collector_number": "47",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/62bbe11b-e959-4080-98ac-09bd57519c00_f.jpg",
+    "back_image": null,
+    "oracle_text": "Return target nonland permanent to its owner's hand. If you control a Desert, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+  },
+  {
+    "id": "01d3e6ea-4791-4948-af22-c1bd04c34c1e",
+    "name": "Fblthp, Lost on the Range",
+    "set": "otj",
+    "collector_number": "48",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Homunculus",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/01d3e6ea-4791-4948-af22-c1bd04c34c1e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Ward {2}\nYou may look at the top card of your library any time.\nThe top card of your library has plot. The plot cost is equal to its mana cost.\nYou may plot nonland cards from the top of your library."
+  },
+  {
+    "id": "8f8c931e-219f-4032-b55b-b5975fbea1e7",
+    "name": "Fleeting Reflection",
+    "set": "otj",
+    "collector_number": "49",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/8f8c931e-219f-4032-b55b-b5975fbea1e7_f.jpg",
+    "back_image": null,
+    "oracle_text": "Target creature you control gains hexproof until end of turn. Untap that creature. Until end of turn, it becomes a copy of up to one other target creature."
+  },
+  {
+    "id": "afe3b678-b340-4c53-bbf6-19252a809d73",
+    "name": "Geralf, the Fleshwright",
+    "set": "otj",
+    "collector_number": "50",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Warlock",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/afe3b678-b340-4c53-bbf6-19252a809d73_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you cast a spell during your turn other than your first spell that turn, create a 2/2 blue and black Zombie Rogue creature token.\nWhenever a Zombie you control enters, put a +1/+1 counter on it for each other Zombie that entered the battlefield under your control this turn."
+  },
+  {
+    "id": "b270377b-33eb-4e5e-9d14-0da2876da74f",
+    "name": "Geyser Drake",
+    "set": "otj",
+    "collector_number": "51",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Creature — Drake",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b270377b-33eb-4e5e-9d14-0da2876da74f_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nDuring turns other than yours, spells you cast cost {1} less to cast."
+  },
+  {
+    "id": "70ca61a9-8938-41bf-bd14-5759f4de6521",
+    "name": "Harrier Strix",
+    "set": "otj",
+    "collector_number": "52",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Creature — Bird",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/70ca61a9-8938-41bf-bd14-5759f4de6521_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nWhen this creature enters, tap target permanent.\n{2}{U}: Draw a card, then discard a card."
+  },
+  {
+    "id": "a4be8e47-9006-4770-8d99-68a684064a43",
+    "name": "Jailbreak Scheme",
+    "set": "otj",
+    "collector_number": "53",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Sorcery",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/a4be8e47-9006-4770-8d99-68a684064a43_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {3} — Put a +1/+1 counter on target creature. It can't be blocked this turn.\n+ {2} — Target artifact or creature's owner puts it on their choice of the top or bottom of their library."
+  },
+  {
+    "id": "166814af-a444-4a62-937e-7491673d9387",
+    "name": "The Key to the Vault",
+    "set": "otj",
+    "collector_number": "54",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Artifact — Equipment",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/166814af-a444-4a62-937e-7491673d9387_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.\nEquip {2}{U}"
+  },
+  {
+    "id": "49f12760-ff07-4c9f-a7a9-1e64bd3a9adf",
+    "name": "Loan Shark",
+    "set": "otj",
+    "collector_number": "55",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Shark Rogue",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/49f12760-ff07-4c9f-a7a9-1e64bd3a9adf_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, if you've cast two or more spells this turn, draw a card.\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "34071884-c5b6-42c0-9eb3-9f32910c29d8",
+    "name": "Marauding Sphinx",
+    "set": "otj",
+    "collector_number": "56",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5,
+    "type_line": "Creature — Sphinx Rogue",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/34071884-c5b6-42c0-9eb3-9f32910c29d8_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, vigilance, ward {2}\nWhenever you commit a crime, surveil 2. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "bd38d922-cfc1-43a8-82d8-5de441c71076",
+    "name": "Metamorphic Blast",
+    "set": "otj",
+    "collector_number": "57",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/bd38d922-cfc1-43a8-82d8-5de441c71076_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Until end of turn, target creature becomes a white Rabbit with base power and toughness 0/1.\n+ {3} — Target player draws two cards."
+  },
+  {
+    "id": "73c74d48-362d-4c3b-9ff7-39bdd19657a6",
+    "name": "Nimble Brigand",
+    "set": "otj",
+    "collector_number": "58",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/73c74d48-362d-4c3b-9ff7-39bdd19657a6_f.jpg",
+    "back_image": null,
+    "oracle_text": "This creature can't be blocked if you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nWhenever this creature deals combat damage to a player, draw a card."
+  },
+  {
+    "id": "ba9584f0-55b8-448d-99a7-041934053f42",
+    "name": "Outlaw Stitcher",
+    "set": "otj",
+    "collector_number": "59",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Human Warlock",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/ba9584f0-55b8-448d-99a7-041934053f42_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, create a 2/2 blue and black Zombie Rogue creature token, then put two +1/+1 counters on that token for each spell you've cast this turn other than the first.\nPlot {4}{U} (You may pay {4}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "ae044509-2f31-4506-a124-0e445b7181a2",
+    "name": "Peerless Ropemaster",
+    "set": "otj",
+    "collector_number": "60",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{U}",
+    "cmc": 5,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/ae044509-2f31-4506-a124-0e445b7181a2_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, return up to one target tapped creature to its owner's hand."
+  },
+  {
+    "id": "00bf4dd1-5468-4594-9c7b-0737610f19d4",
+    "name": "Phantom Interference",
+    "set": "otj",
+    "collector_number": "61",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/00bf4dd1-5468-4594-9c7b-0737610f19d4_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {3} — Create a 2/2 white Spirit creature token with flying.\n+ {1} — Counter target spell unless its controller pays {2}."
+  },
+  {
+    "id": "1e8c3a0e-d61c-457f-ac85-577d0bb94b96",
+    "name": "Plan the Heist",
+    "set": "otj",
+    "collector_number": "62",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{U}{U}",
+    "cmc": 4,
+    "type_line": "Sorcery",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1e8c3a0e-d61c-457f-ac85-577d0bb94b96_f.jpg",
+    "back_image": null,
+    "oracle_text": "Surveil 3 if you have no cards in hand. Then draw three cards. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "f7d08008-9272-405e-82ef-566e6d42bb17",
+    "name": "Razzle-Dazzler",
+    "set": "otj",
+    "collector_number": "63",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Human Wizard",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f7d08008-9272-405e-82ef-566e6d42bb17_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. It can't be blocked this turn."
+  },
+  {
+    "id": "1bdbdfa8-aa28-4b3d-95e7-3d0e7e37f982",
+    "name": "Seize the Secrets",
+    "set": "otj",
+    "collector_number": "64",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1bdbdfa8-aa28-4b3d-95e7-3d0e7e37f982_f.jpg",
+    "back_image": null,
+    "oracle_text": "This spell costs {1} less to cast if you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nDraw two cards."
+  },
+  {
+    "id": "e6cfe383-e483-47e7-99d1-991a06b089bc",
+    "name": "Shackle Slinger",
+    "set": "otj",
+    "collector_number": "65",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Creature — Human Soldier",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e6cfe383-e483-47e7-99d1-991a06b089bc_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you cast your second spell each turn, choose target creature an opponent controls. If it's tapped, put a stun counter on it. Otherwise, tap it. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+  },
+  {
+    "id": "20b8313b-a680-4dca-959a-1a7fa5cb4b1b",
+    "name": "Shifting Grift",
+    "set": "otj",
+    "collector_number": "66",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{U}{U}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/20b8313b-a680-4dca-959a-1a7fa5cb4b1b_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2} — Exchange control of two target creatures.\n+ {1} — Exchange control of two target artifacts.\n+ {1} — Exchange control of two target enchantments."
+  },
+  {
+    "id": "109a9464-ce30-4747-874e-3bbf75913081",
+    "name": "Slickshot Lockpicker",
+    "set": "otj",
+    "collector_number": "67",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/109a9464-ce30-4747-874e-3bbf75913081_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)\nPlot {2}{U} (You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "592ccc36-3d10-4a12-8743-9b300b80cb4d",
+    "name": "Slickshot Vault-Buster",
+    "set": "otj",
+    "collector_number": "68",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{U}",
+    "cmc": 3,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/592ccc36-3d10-4a12-8743-9b300b80cb4d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Vigilance\nThis creature gets +2/+0 as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "b6822d12-1a25-42e7-94cc-71bd29daed93",
+    "name": "Spring Splasher",
+    "set": "otj",
+    "collector_number": "69",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{U}",
+    "cmc": 2,
+    "type_line": "Creature — Frog Beast",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b6822d12-1a25-42e7-94cc-71bd29daed93_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks, target creature defending player controls gets -3/-0 until end of turn."
+  },
+  {
+    "id": "70ea2054-3d22-42ce-ab50-501ef09c2128",
+    "name": "Step Between Worlds",
+    "set": "otj",
+    "collector_number": "70",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5,
+    "type_line": "Sorcery",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/70ea2054-3d22-42ce-ab50-501ef09c2128_f.jpg",
+    "back_image": null,
+    "oracle_text": "Each player may shuffle their hand and graveyard into their library. Each player who does draws seven cards. Exile Step Between Worlds.\nPlot {4}{U}{U} (You may pay {4}{U}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "f93f5055-30d8-4fc4-afa5-29212e8c7536",
+    "name": "Stoic Sphinx",
+    "set": "otj",
+    "collector_number": "71",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{U}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Sphinx",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f93f5055-30d8-4fc4-afa5-29212e8c7536_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nFlying\nThis creature has hexproof as long as you haven't cast a spell this turn."
+  },
+  {
+    "id": "9ff9c158-0080-427c-8cf9-0289011ea63e",
+    "name": "Stop Cold",
+    "set": "otj",
+    "collector_number": "72",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Enchantment — Aura",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/9ff9c158-0080-427c-8cf9-0289011ea63e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nEnchant artifact or creature\nWhen this Aura enters, tap enchanted permanent.\nEnchanted permanent loses all abilities and doesn't untap during its controller's untap step."
+  },
+  {
+    "id": "9fea80c4-923c-40a1-9363-bfa4c267a024",
+    "name": "Take the Fall",
+    "set": "otj",
+    "collector_number": "73",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/9fea80c4-923c-40a1-9363-bfa4c267a024_f.jpg",
+    "back_image": null,
+    "oracle_text": "Target creature gets -1/-0 until end of turn. It gets -4/-0 until end of turn instead if you control an outlaw. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nDraw a card."
+  },
+  {
+    "id": "bb206e27-da4d-4abe-9d8c-6d18c5f2f52a",
+    "name": "This Town Ain't Big Enough",
+    "set": "otj",
+    "collector_number": "74",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{4}{U}",
+    "cmc": 5,
+    "type_line": "Instant",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/bb206e27-da4d-4abe-9d8c-6d18c5f2f52a_f.jpg",
+    "back_image": null,
+    "oracle_text": "This spell costs {3} less to cast if it targets a permanent you control.\nReturn up to two target nonland permanents to their owners' hands."
+  },
+  {
+    "id": "8fffd839-2337-4a14-9312-cee085a17f4b",
+    "name": "Three Steps Ahead",
+    "set": "otj",
+    "collector_number": "75",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{U}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/8fffd839-2337-4a14-9312-cee085a17f4b_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1}{U} — Counter target spell.\n+ {3} — Create a token that's a copy of target artifact or creature you control.\n+ {2} — Draw two cards, then discard a card."
+  },
+  {
+    "id": "685ec4c6-3332-498f-8b56-d7ad8fc5230c",
+    "name": "Visage Bandit",
+    "set": "otj",
+    "collector_number": "76",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{U}",
+    "cmc": 4,
+    "type_line": "Creature — Shapeshifter Rogue",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/685ec4c6-3332-498f-8b56-d7ad8fc5230c_f.jpg",
+    "back_image": null,
+    "oracle_text": "You may have this creature enter as a copy of a creature you control, except it's a Shapeshifter Rogue in addition to its other types.\nPlot {2}{U} (You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "93b17d09-974a-4e33-b14d-5fe4230ab241",
+    "name": "Ambush Gigapede",
+    "set": "otj",
+    "collector_number": "77",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6,
+    "type_line": "Creature — Insect",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/93b17d09-974a-4e33-b14d-5fe4230ab241_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nWhen this creature enters, target creature an opponent controls gets -2/-2 until end of turn."
+  },
+  {
+    "id": "1c4c26b9-981f-47cf-b0f4-769e788d9537",
+    "name": "Binding Negotiation",
+    "set": "otj",
+    "collector_number": "78",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1c4c26b9-981f-47cf-b0f4-769e788d9537_f.jpg",
+    "back_image": null,
+    "oracle_text": "Target opponent reveals their hand. You may choose a nonland card from it. If you do, they discard it. Otherwise, you may put a face-up exiled card they own into their graveyard."
+  },
+  {
+    "id": "ef10b2ad-9b9b-4c5d-a2c7-3ce742224b50",
+    "name": "Blacksnag Buzzard",
+    "set": "otj",
+    "collector_number": "79",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Creature — Bird",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/ef10b2ad-9b9b-4c5d-a2c7-3ce742224b50_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nThis creature enters with a +1/+1 counter on it if a creature died this turn.\nPlot {1}{B} (You may pay {1}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "1016a750-2a18-4443-a600-957eb4026d3a",
+    "name": "Blood Hustler",
+    "set": "otj",
+    "collector_number": "80",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Creature — Vampire Rogue",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1016a750-2a18-4443-a600-957eb4026d3a_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime, put a +1/+1 counter on this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\n{3}{B}: Target opponent loses 1 life and you gain 1 life."
+  },
+  {
+    "id": "d43981b1-60c8-4896-8885-b07e73b99b30",
+    "name": "Boneyard Desecrator",
+    "set": "otj",
+    "collector_number": "81",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Creature — Zombie Mercenary",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/d43981b1-60c8-4896-8885-b07e73b99b30_f.jpg",
+    "back_image": null,
+    "oracle_text": "Menace\n{1}{B}, Sacrifice another creature: Put a +1/+1 counter on this creature. If an outlaw was sacrificed this way, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)"
+  },
+  {
+    "id": "e9a268ba-c442-4fe4-90b4-2810c8474f4e",
+    "name": "Caustic Bronco",
+    "set": "otj",
+    "collector_number": "82",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Creature — Snake Horse Mount",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e9a268ba-c442-4fe4-90b4-2810c8474f4e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if this creature isn't saddled. Otherwise, each opponent loses that much life.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "54f96be9-60fc-4e2f-9172-4cc53c9a095a",
+    "name": "Consuming Ashes",
+    "set": "otj",
+    "collector_number": "83",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4,
+    "type_line": "Instant",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/54f96be9-60fc-4e2f-9172-4cc53c9a095a_f.jpg",
+    "back_image": null,
+    "oracle_text": "Exile target creature. If it had mana value 3 or less, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+  },
+  {
+    "id": "8046f892-3317-4ef7-9cf7-97b9060540c8",
+    "name": "Corrupted Conviction",
+    "set": "otj",
+    "collector_number": "84",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/8046f892-3317-4ef7-9cf7-97b9060540c8_f.jpg",
+    "back_image": null,
+    "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards."
+  },
+  {
+    "id": "35e899e4-e2de-44cf-b6f4-cace8d3770cb",
+    "name": "Desert's Due",
+    "set": "otj",
+    "collector_number": "85",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/35e899e4-e2de-44cf-b6f4-cace8d3770cb_f.jpg",
+    "back_image": null,
+    "oracle_text": "Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each Desert you control."
+  },
+  {
+    "id": "a59da027-b5dd-4920-b3a1-9da05fcb1977",
+    "name": "Desperate Bloodseeker",
+    "set": "otj",
+    "collector_number": "86",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Creature — Vampire",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/a59da027-b5dd-4920-b3a1-9da05fcb1977_f.jpg",
+    "back_image": null,
+    "oracle_text": "Lifelink\nWhen this creature enters, target player mills two cards. (They put the top two cards of their library into their graveyard.)"
+  },
+  {
+    "id": "79a17ab9-13c9-41d4-a143-82d8caacfd8b",
+    "name": "Fake Your Own Death",
+    "set": "otj",
+    "collector_number": "87",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/79a17ab9-13c9-41d4-a143-82d8caacfd8b_f.jpg",
+    "back_image": null,
+    "oracle_text": "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield tapped under its owner's control and you create a Treasure token.\" (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+  },
+  {
+    "id": "1679f74d-00f8-436c-9f8c-aa3f843a546c",
+    "name": "Forsaken Miner",
+    "set": "otj",
+    "collector_number": "88",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Creature — Skeleton Rogue",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1679f74d-00f8-436c-9f8c-aa3f843a546c_f.jpg",
+    "back_image": null,
+    "oracle_text": "This creature can't block.\nWhenever you commit a crime, you may pay {B}. If you do, return this card from your graveyard to the battlefield. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "db7c07b2-02b2-4e62-bf1b-4848e06eec28",
+    "name": "Gisa, the Hellraiser",
+    "set": "otj",
+    "collector_number": "89",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Human Warlock",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/db7c07b2-02b2-4e62-bf1b-4848e06eec28_f.jpg",
+    "back_image": null,
+    "oracle_text": "Ward—{2}, Pay 2 life.\nSkeletons and Zombies you control get +1/+1 and have menace.\nWhenever you commit a crime, create two tapped 2/2 blue and black Zombie Rogue creature tokens. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "df2913d5-57c7-4f9b-bc96-8a46beef2563",
+    "name": "Hollow Marauder",
+    "set": "otj",
+    "collector_number": "90",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{6}{B}",
+    "cmc": 7,
+    "type_line": "Creature — Specter Rogue",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/df2913d5-57c7-4f9b-bc96-8a46beef2563_f.jpg",
+    "back_image": null,
+    "oracle_text": "This spell costs {1} less to cast for each creature card in your graveyard.\nFlying\nWhen this creature enters, any number of target opponents each discard a card. For each of those opponents who didn't discard a card with mana value 4 or greater, draw a card."
+  },
+  {
+    "id": "a108b0e4-1b43-4659-9e91-facb0bd57ebb",
+    "name": "Insatiable Avarice",
+    "set": "otj",
+    "collector_number": "91",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Sorcery",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/a108b0e4-1b43-4659-9e91-facb0bd57ebb_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2} — Search your library for a card, then shuffle and put that card on top.\n+ {B}{B} — Target player draws three cards and loses 3 life."
+  },
+  {
+    "id": "7f3affc1-be42-48c7-89ff-b59550ff278c",
+    "name": "Kaervek, the Punisher",
+    "set": "otj",
+    "collector_number": "92",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Warlock",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/7f3affc1-be42-48c7-89ff-b59550ff278c_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime, exile up to one target black card from your graveyard and copy it. You may cast the copy. If you do, you lose 2 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Copies of permanent spells become tokens.)"
+  },
+  {
+    "id": "0c35a0d3-12f7-46f3-a6b3-02a490d45ca0",
+    "name": "Lively Dirge",
+    "set": "otj",
+    "collector_number": "93",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/0c35a0d3-12f7-46f3-a6b3-02a490d45ca0_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Search your library for a card, put it into your graveyard, then shuffle.\n+ {2} — Return up to two creature cards with total mana value 4 or less from your graveyard to the battlefield."
+  },
+  {
+    "id": "980b0b68-7218-49c6-b6bf-022218f3abf4",
+    "name": "Mourner's Surprise",
+    "set": "otj",
+    "collector_number": "94",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/980b0b68-7218-49c6-b6bf-022218f3abf4_f.jpg",
+    "back_image": null,
+    "oracle_text": "Return up to one target creature card from your graveyard to your hand. Create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+  },
+  {
+    "id": "60f1a481-598e-4e05-8471-eedb12a39022",
+    "name": "Neutralize the Guards",
+    "set": "otj",
+    "collector_number": "95",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/60f1a481-598e-4e05-8471-eedb12a39022_f.jpg",
+    "back_image": null,
+    "oracle_text": "Creatures target opponent controls get -1/-1 until end of turn. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+  },
+  {
+    "id": "6dd0095b-6136-4368-94cb-4c82621aaf37",
+    "name": "Nezumi Linkbreaker",
+    "set": "otj",
+    "collector_number": "96",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Creature — Rat Warlock",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/6dd0095b-6136-4368-94cb-4c82621aaf37_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature dies, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+  },
+  {
+    "id": "ce57d977-e9c5-4ed1-915f-cdc90a54f8f8",
+    "name": "Overzealous Muscle",
+    "set": "otj",
+    "collector_number": "97",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{B}",
+    "cmc": 5,
+    "type_line": "Creature — Ogre Mercenary",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/ce57d977-e9c5-4ed1-915f-cdc90a54f8f8_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime during your turn, this creature gains indestructible until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Damage and effects that say \"destroy\" don't destroy a creature with indestructible.)"
+  },
+  {
+    "id": "fa76fc45-a106-4dc9-9d44-a005eaa2784d",
+    "name": "Pitiless Carnage",
+    "set": "otj",
+    "collector_number": "98",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Sorcery",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/fa76fc45-a106-4dc9-9d44-a005eaa2784d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Sacrifice any number of permanents you control, then draw that many cards.\nPlot {1}{B}{B} (You may pay {1}{B}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "70f64358-58db-40ab-90e8-6137c3bd0a29",
+    "name": "Rakish Crew",
+    "set": "otj",
+    "collector_number": "99",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/70f64358-58db-40ab-90e8-6137c3bd0a29_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this enchantment enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nWhenever an outlaw you control dies, each opponent loses 1 life and you gain 1 life. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)"
+  },
+  {
+    "id": "9a88e233-f09c-49e7-b1e3-386fba851fdf",
+    "name": "Rattleback Apothecary",
+    "set": "otj",
+    "collector_number": "100",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Creature — Gorgon Warlock",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/9a88e233-f09c-49e7-b1e3-386fba851fdf_f.jpg",
+    "back_image": null,
+    "oracle_text": "Deathtouch\nWhenever you commit a crime, target creature you control gains your choice of menace or lifelink until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "e2df3cb4-1658-450a-912a-df336706acdc",
+    "name": "Raven of Fell Omens",
+    "set": "otj",
+    "collector_number": "101",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Creature — Bird",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e2df3cb4-1658-450a-912a-df336706acdc_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nWhenever you commit a crime, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "252def94-2d89-48f7-8ff7-9c8682ca3ec6",
+    "name": "Rictus Robber",
+    "set": "otj",
+    "collector_number": "102",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Creature — Zombie Rogue",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/252def94-2d89-48f7-8ff7-9c8682ca3ec6_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, if a creature died this turn, create a 2/2 blue and black Zombie Rogue creature token.\nPlot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "e4e4311a-8583-4cf0-8126-508dbfbcddb6",
+    "name": "Rooftop Assassin",
+    "set": "otj",
+    "collector_number": "103",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{B}",
+    "cmc": 4,
+    "type_line": "Creature — Vampire Assassin",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e4e4311a-8583-4cf0-8126-508dbfbcddb6_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nFlying, lifelink\nWhen this creature enters, destroy target creature an opponent controls that was dealt damage this turn."
+  },
+  {
+    "id": "721c7122-91b6-45ea-ba28-de0246a2fc1b",
+    "name": "Rush of Dread",
+    "set": "otj",
+    "collector_number": "104",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/721c7122-91b6-45ea-ba28-de0246a2fc1b_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Target opponent sacrifices half the creatures they control of their choice, rounded up.\n+ {2} — Target opponent discards half the cards in their hand, rounded up.\n+ {2} — Target opponent loses half their life, rounded up."
+  },
+  {
+    "id": "b5c98650-b195-4071-8e02-4df35fddddc7",
+    "name": "Servant of the Stinger",
+    "set": "otj",
+    "collector_number": "105",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Creature — Human Warlock",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b5c98650-b195-4071-8e02-4df35fddddc7_f.jpg",
+    "back_image": null,
+    "oracle_text": "Deathtouch\nWhenever this creature deals combat damage to a player, if you've committed a crime this turn, you may sacrifice this creature. If you do, search your library for a card, put it into your hand, then shuffle. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "180d6528-c524-4bb8-8a72-b3775cd2c177",
+    "name": "Shoot the Sheriff",
+    "set": "otj",
+    "collector_number": "106",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/180d6528-c524-4bb8-8a72-b3775cd2c177_f.jpg",
+    "back_image": null,
+    "oracle_text": "Destroy target non-outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Everyone else is fair game.)"
+  },
+  {
+    "id": "03709166-164a-4075-ad0d-ea3b516ab771",
+    "name": "Skulduggery",
+    "set": "otj",
+    "collector_number": "107",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/03709166-164a-4075-ad0d-ea3b516ab771_f.jpg",
+    "back_image": null,
+    "oracle_text": "Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1."
+  },
+  {
+    "id": "5724a15f-0ba0-421a-9cd4-a2b701e6141f",
+    "name": "Tinybones Joins Up",
+    "set": "otj",
+    "collector_number": "108",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Legendary Enchantment",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/5724a15f-0ba0-421a-9cd4-a2b701e6141f_f.jpg",
+    "back_image": null,
+    "oracle_text": "When Tinybones Joins Up enters, any number of target players each discard a card.\nWhenever a legendary creature you control enters, any number of target players each mill a card and lose 1 life."
+  },
+  {
+    "id": "3d3025a2-4a17-4137-ba0b-bd676c6f5f88",
+    "name": "Tinybones, the Pickpocket",
+    "set": "otj",
+    "collector_number": "109",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Legendary Creature — Skeleton Rogue",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/3d3025a2-4a17-4137-ba0b-bd676c6f5f88_f.jpg",
+    "back_image": null,
+    "oracle_text": "Deathtouch\nWhenever Tinybones deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell."
+  },
+  {
+    "id": "c88df498-147c-4609-8a94-d8d10a87e37c",
+    "name": "Treasure Dredger",
+    "set": "otj",
+    "collector_number": "110",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c88df498-147c-4609-8a94-d8d10a87e37c_f.jpg",
+    "back_image": null,
+    "oracle_text": "{1}, {T}, Pay 1 life: Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+  },
+  {
+    "id": "0c5a25d9-926e-4004-8830-2b2bf7bc0775",
+    "name": "Unfortunate Accident",
+    "set": "otj",
+    "collector_number": "111",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{B}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/0c5a25d9-926e-4004-8830-2b2bf7bc0775_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2}{B} — Destroy target creature.\n+ {1} — Create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+  },
+  {
+    "id": "9e56a8df-db04-4a88-a5ab-6954d3449976",
+    "name": "Unscrupulous Contractor",
+    "set": "otj",
+    "collector_number": "112",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Creature — Human Assassin",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/9e56a8df-db04-4a88-a5ab-6954d3449976_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, you may sacrifice a creature. When you do, target player draws two cards and loses 2 life.\nPlot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "828b5855-af5a-46a6-8fd4-0a2e28f3bb01",
+    "name": "Vadmir, New Blood",
+    "set": "otj",
+    "collector_number": "113",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{B}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Vampire Rogue",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/828b5855-af5a-46a6-8fd4-0a2e28f3bb01_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime, put a +1/+1 counter on Vadmir. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nAs long as Vadmir has four or more +1/+1 counters on it, it has menace and lifelink."
+  },
+  {
+    "id": "2e6bf35c-8763-47cc-ab2d-5dbabeb28072",
+    "name": "Vault Plunderer",
+    "set": "otj",
+    "collector_number": "114",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{B}",
+    "cmc": 3,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "booster": true,
+    "image": "/cards/otj/2e6bf35c-8763-47cc-ab2d-5dbabeb28072_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, target player draws a card and loses 1 life."
+  },
+  {
+    "id": "bd13011e-a4fc-4107-988f-60cfc851ecd3",
+    "name": "Brimstone Roundup",
+    "set": "otj",
+    "collector_number": "115",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Enchantment",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/bd13011e-a4fc-4107-988f-60cfc851ecd3_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you cast your second spell each turn, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "e7a70f5a-2056-4c26-b6ea-9f751b5d0d8c",
+    "name": "Calamity, Galloping Inferno",
+    "set": "otj",
+    "collector_number": "116",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Horse Mount",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e7a70f5a-2056-4c26-b6ea-9f751b5d0d8c_f.jpg",
+    "back_image": null,
+    "oracle_text": "Haste\nWhenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.\nSaddle 1"
+  },
+  {
+    "id": "3a2fd0c4-509e-49c2-ad57-f772efcbc207",
+    "name": "Caught in the Crossfire",
+    "set": "otj",
+    "collector_number": "117",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{R}{R}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/3a2fd0c4-509e-49c2-ad57-f772efcbc207_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Caught in the Crossfire deals 2 damage to each outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\n+ {1} — Caught in the Crossfire deals 2 damage to each non-outlaw creature."
+  },
+  {
+    "id": "5b4ac6ea-c67b-4f90-be4f-aa25882f5794",
+    "name": "Cunning Coyote",
+    "set": "otj",
+    "collector_number": "118",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Coyote",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/5b4ac6ea-c67b-4f90-be4f-aa25882f5794_f.jpg",
+    "back_image": null,
+    "oracle_text": "Haste\nWhen this creature enters, another target creature you control gets +1/+1 and gains haste until end of turn.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "e9a50b7a-8741-4520-8d45-8e6b128c2628",
+    "name": "Deadeye Duelist",
+    "set": "otj",
+    "collector_number": "119",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Human Assassin",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e9a50b7a-8741-4520-8d45-8e6b128c2628_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach\n{1}, {T}: This creature deals 1 damage to target opponent."
+  },
+  {
+    "id": "5b491d11-d00a-4541-8389-2785a455eeee",
+    "name": "Demonic Ruckus",
+    "set": "otj",
+    "collector_number": "120",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Enchantment — Aura",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/5b491d11-d00a-4541-8389-2785a455eeee_f.jpg",
+    "back_image": null,
+    "oracle_text": "Enchant creature\nEnchanted creature gets +1/+1 and has menace and trample.\nWhen this Aura is put into a graveyard from the battlefield, draw a card.\nPlot {R} (You may pay {R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "73b359bf-afd8-439d-a4d2-985db1ad368c",
+    "name": "Discerning Peddler",
+    "set": "otj",
+    "collector_number": "121",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/73b359bf-afd8-439d-a4d2-985db1ad368c_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, you may discard a card. If you do, draw a card."
+  },
+  {
+    "id": "f0e3df9c-0a86-4e6f-a3c7-84a883328a3d",
+    "name": "Explosive Derailment",
+    "set": "otj",
+    "collector_number": "122",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{R}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f0e3df9c-0a86-4e6f-a3c7-84a883328a3d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2} — Explosive Derailment deals 4 damage to target creature.\n+ {2} — Destroy target artifact."
+  },
+  {
+    "id": "78db4260-6fc8-4500-afd7-2c845ac0d53b",
+    "name": "Ferocification",
+    "set": "otj",
+    "collector_number": "123",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/78db4260-6fc8-4500-afd7-2c845ac0d53b_f.jpg",
+    "back_image": null,
+    "oracle_text": "At the beginning of combat on your turn, choose one —\n• Target creature you control gets +2/+0 until end of turn.\n• Target creature you control gains menace and haste until end of turn."
+  },
+  {
+    "id": "f568803d-65c0-48d7-916f-671267a9e00e",
+    "name": "Gila Courser",
+    "set": "otj",
+    "collector_number": "124",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Creature — Lizard Mount",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f568803d-65c0-48d7-916f-671267a9e00e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks while saddled, exile the top card of your library. Until the end of your next turn, you may play that card.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "357dd9b2-5d2d-49f6-86f0-f5c4d63474dd",
+    "name": "Great Train Heist",
+    "set": "otj",
+    "collector_number": "125",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{R}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.\n+ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.\n+ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token."
+  },
+  {
+    "id": "84ad8ed7-1429-432e-8217-a4db3b97675c",
+    "name": "Hell to Pay",
+    "set": "otj",
+    "collector_number": "126",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{X}{R}",
+    "cmc": 1,
+    "type_line": "Sorcery",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/84ad8ed7-1429-432e-8217-a4db3b97675c_f.jpg",
+    "back_image": null,
+    "oracle_text": "Hell to Pay deals X damage to target creature. Create a number of tapped Treasure tokens equal to the amount of excess damage dealt to that creature this way."
+  },
+  {
+    "id": "3b99db5b-cd13-4e69-98b7-753e72c781f8",
+    "name": "Hellspur Brute",
+    "set": "otj",
+    "collector_number": "127",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{4}{R}",
+    "cmc": 5,
+    "type_line": "Creature — Minotaur Mercenary",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/3b99db5b-cd13-4e69-98b7-753e72c781f8_f.jpg",
+    "back_image": null,
+    "oracle_text": "Affinity for outlaws (This spell costs {1} less to cast for each Assassin, Mercenary, Pirate, Rogue, and/or Warlock you control.)\nTrample"
+  },
+  {
+    "id": "5f348c7e-7d72-40f1-a65f-ee7ff4b09412",
+    "name": "Hellspur Posse Boss",
+    "set": "otj",
+    "collector_number": "128",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4,
+    "type_line": "Creature — Lizard Rogue",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/5f348c7e-7d72-40f1-a65f-ee7ff4b09412_f.jpg",
+    "back_image": null,
+    "oracle_text": "Other outlaws you control have haste. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nWhen this creature enters, create two 1/1 red Mercenary creature tokens with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+  },
+  {
+    "id": "31a88429-9204-4a23-a7a8-babbd6bab79f",
+    "name": "Highway Robbery",
+    "set": "otj",
+    "collector_number": "129",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/31a88429-9204-4a23-a7a8-babbd6bab79f_f.jpg",
+    "back_image": null,
+    "oracle_text": "You may discard a card or sacrifice a land. If you do, draw two cards.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "324c0af5-7cdf-4c71-84cc-6349f10e0d66",
+    "name": "Irascible Wolverine",
+    "set": "otj",
+    "collector_number": "130",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Creature — Wolverine",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/324c0af5-7cdf-4c71-84cc-6349f10e0d66_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, exile the top card of your library. Until end of turn, you may play that card.\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "cd7f984a-0b56-45df-958d-6178e4da61ed",
+    "name": "Iron-Fist Pulverizer",
+    "set": "otj",
+    "collector_number": "131",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{R}",
+    "cmc": 5,
+    "type_line": "Creature — Giant Warrior",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/cd7f984a-0b56-45df-958d-6178e4da61ed_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach\nWhenever you cast your second spell each turn, this creature deals 2 damage to target opponent. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+  },
+  {
+    "id": "398d9a16-d72c-42e2-a0ea-d9da642ee046",
+    "name": "Longhorn Sharpshooter",
+    "set": "otj",
+    "collector_number": "132",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Creature — Minotaur Rogue",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/398d9a16-d72c-42e2-a0ea-d9da642ee046_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach\nWhen this card becomes plotted, it deals 2 damage to any target.\nPlot {3}{R} (You may pay {3}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "4443d112-209b-49ec-bc40-3a11dcdb092e",
+    "name": "Magda, the Hoardmaster",
+    "set": "otj",
+    "collector_number": "133",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Dwarf Berserker",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/4443d112-209b-49ec-bc40-3a11dcdb092e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nSacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery."
+  },
+  {
+    "id": "62e12566-375f-4f31-aa91-1b13a96d9ece",
+    "name": "Magebane Lizard",
+    "set": "otj",
+    "collector_number": "134",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Lizard",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/62e12566-375f-4f31-aa91-1b13a96d9ece_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever a player casts a noncreature spell, this creature deals damage to that player equal to the number of noncreature spells they've cast this turn."
+  },
+  {
+    "id": "19cfacff-e884-4954-aa6b-ed56ca942bf2",
+    "name": "Mine Raider",
+    "set": "otj",
+    "collector_number": "135",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/19cfacff-e884-4954-aa6b-ed56ca942bf2_f.jpg",
+    "back_image": null,
+    "oracle_text": "Trample\nWhen this creature enters, if you control another outlaw, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. A Treasure token is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+  },
+  {
+    "id": "f7502b9c-b759-499a-8e94-22f87f5eb142",
+    "name": "Outlaws' Fury",
+    "set": "otj",
+    "collector_number": "136",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Instant",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f7502b9c-b759-499a-8e94-22f87f5eb142_f.jpg",
+    "back_image": null,
+    "oracle_text": "Creatures you control get +2/+0 until end of turn. If you control an outlaw, exile the top card of your library. Until the end of your next turn, you may play that card. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)"
+  },
+  {
+    "id": "e70f2278-8857-46e4-aa2b-fff5589b750f",
+    "name": "Prickly Pair",
+    "set": "otj",
+    "collector_number": "137",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Creature — Plant Mercenary",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e70f2278-8857-46e4-aa2b-fff5589b750f_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+  },
+  {
+    "id": "56399cd0-1214-42b6-be38-f2cbd770915f",
+    "name": "Quick Draw",
+    "set": "otj",
+    "collector_number": "138",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{R}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/56399cd0-1214-42b6-be38-f2cbd770915f_f.jpg",
+    "back_image": null,
+    "oracle_text": "Target creature you control gets +1/+1 and gains first strike until end of turn. Creatures target opponent controls lose first strike and double strike until end of turn."
+  },
+  {
+    "id": "56e326c4-39f1-41ee-9e47-ebe468c51718",
+    "name": "Quilled Charger",
+    "set": "otj",
+    "collector_number": "139",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{R}",
+    "cmc": 4,
+    "type_line": "Creature — Porcupine Mount",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/56e326c4-39f1-41ee-9e47-ebe468c51718_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks while saddled, it gets +1/+2 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "912fcd14-5e81-418c-997b-771f2f38f63d",
+    "name": "Reckless Lackey",
+    "set": "otj",
+    "collector_number": "140",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{R}",
+    "cmc": 1,
+    "type_line": "Creature — Goblin Pirate",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/912fcd14-5e81-418c-997b-771f2f38f63d_f.jpg",
+    "back_image": null,
+    "oracle_text": "First strike, haste\n{2}{R}, Sacrifice this creature: Draw a card and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+  },
+  {
+    "id": "e07d3ee9-d3c4-4f07-839e-ec81c2587ae0",
+    "name": "Resilient Roadrunner",
+    "set": "otj",
+    "collector_number": "141",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Bird",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e07d3ee9-d3c4-4f07-839e-ec81c2587ae0_f.jpg",
+    "back_image": null,
+    "oracle_text": "Haste, protection from Coyotes\n{3}: This creature can't be blocked this turn except by creatures with haste."
+  },
+  {
+    "id": "a9cc02d1-799d-42aa-9bc2-4c05452b63b4",
+    "name": "Return the Favor",
+    "set": "otj",
+    "collector_number": "142",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{R}{R}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/a9cc02d1-799d-42aa-9bc2-4c05452b63b4_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.\n+ {1} — Change the target of target spell or ability with a single target."
+  },
+  {
+    "id": "df877a29-06e1-474d-8600-410bbec674ae",
+    "name": "Rodeo Pyromancers",
+    "set": "otj",
+    "collector_number": "143",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{R}",
+    "cmc": 4,
+    "type_line": "Creature — Human Mercenary",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/df877a29-06e1-474d-8600-410bbec674ae_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you cast your first spell each turn, add {R}{R}."
+  },
+  {
+    "id": "d603c00f-048a-4a05-9df9-52844819d523",
+    "name": "Scalestorm Summoner",
+    "set": "otj",
+    "collector_number": "144",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Creature — Human Warlock",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/d603c00f-048a-4a05-9df9-52844819d523_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks, create a 3/1 red Dinosaur creature token if you control a creature with power 4 or greater."
+  },
+  {
+    "id": "f93d8357-83bd-4157-a389-68e4aa4985c8",
+    "name": "Scorching Shot",
+    "set": "otj",
+    "collector_number": "145",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{R}{R}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f93d8357-83bd-4157-a389-68e4aa4985c8_f.jpg",
+    "back_image": null,
+    "oracle_text": "Scorching Shot deals 5 damage to target creature."
+  },
+  {
+    "id": "7054012b-4f9d-44a0-aaf9-7fd3bddc7b2d",
+    "name": "Slickshot Show-Off",
+    "set": "otj",
+    "collector_number": "146",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Creature — Bird Wizard",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/7054012b-4f9d-44a0-aaf9-7fd3bddc7b2d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, haste\nWhenever you cast a noncreature spell, this creature gets +2/+0 until end of turn.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "d84d6e52-5c35-47bc-b160-876a3b0fcbe1",
+    "name": "Stingerback Terror",
+    "set": "otj",
+    "collector_number": "147",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4,
+    "type_line": "Creature — Scorpion Dragon",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/d84d6e52-5c35-47bc-b160-876a3b0fcbe1_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, trample\nThis creature gets -1/-1 for each card in your hand.\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "c8e2ff9c-0e98-46f9-a33c-739388c5f3d0",
+    "name": "Take for a Ride",
+    "set": "otj",
+    "collector_number": "148",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{R}",
+    "cmc": 3,
+    "type_line": "Sorcery",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c8e2ff9c-0e98-46f9-a33c-739388c5f3d0_f.jpg",
+    "back_image": null,
+    "oracle_text": "Take for a Ride has flash as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn."
+  },
+  {
+    "id": "904ff94a-4db4-44a6-8593-89c32905b3fc",
+    "name": "Terror of the Peaks",
+    "set": "otj",
+    "collector_number": "149",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5,
+    "type_line": "Creature — Dragon",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/904ff94a-4db4-44a6-8593-89c32905b3fc_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nSpells your opponents cast that target this creature cost an additional 3 life to cast.\nWhenever another creature you control enters, this creature deals damage equal to that creature's power to any target."
+  },
+  {
+    "id": "a0bf0ea9-0929-4d33-815a-6df29c399e7e",
+    "name": "Thunder Salvo",
+    "set": "otj",
+    "collector_number": "150",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/a0bf0ea9-0929-4d33-815a-6df29c399e7e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Thunder Salvo deals X damage to target creature, where X is 2 plus the number of other spells you've cast this turn."
+  },
+  {
+    "id": "cd3c2d02-67ca-4858-9b7a-3cfe8a08356c",
+    "name": "Trick Shot",
+    "set": "otj",
+    "collector_number": "151",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{R}",
+    "cmc": 5,
+    "type_line": "Instant",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/cd3c2d02-67ca-4858-9b7a-3cfe8a08356c_f.jpg",
+    "back_image": null,
+    "oracle_text": "Trick Shot deals 6 damage to target creature and 2 damage to up to one other target creature token."
+  },
+  {
+    "id": "69f2f632-b6cc-4092-acd5-a6b152e90488",
+    "name": "Aloe Alchemist",
+    "set": "otj",
+    "collector_number": "152",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Creature — Plant Warlock",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/69f2f632-b6cc-4092-acd5-a6b152e90488_f.jpg",
+    "back_image": null,
+    "oracle_text": "Trample\nWhen this card becomes plotted, target creature gets +3/+2 and gains trample until end of turn.\nPlot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "424972d6-3b2c-449b-b786-749a77020fa1",
+    "name": "Ankle Biter",
+    "set": "otj",
+    "collector_number": "153",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{G}",
+    "cmc": 1,
+    "type_line": "Creature — Snake",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/424972d6-3b2c-449b-b786-749a77020fa1_f.jpg",
+    "back_image": null,
+    "oracle_text": "Deathtouch"
+  },
+  {
+    "id": "073b9ae8-8ac3-4824-aec4-84a80531aa23",
+    "name": "Beastbond Outcaster",
+    "set": "otj",
+    "collector_number": "154",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Human Druid",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/073b9ae8-8ac3-4824-aec4-84a80531aa23_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, if you control a creature with power 4 or greater, draw a card.\nPlot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "c494820f-607d-4ed2-8a86-a916ae390272",
+    "name": "Betrayal at the Vault",
+    "set": "otj",
+    "collector_number": "155",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6,
+    "type_line": "Instant",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c494820f-607d-4ed2-8a86-a916ae390272_f.jpg",
+    "back_image": null,
+    "oracle_text": "Target creature you control deals damage equal to its power to each of two other target creatures."
+  },
+  {
+    "id": "6aea6702-16a8-4073-9c83-fbea20a5fd32",
+    "name": "Bristlepack Sentry",
+    "set": "otj",
+    "collector_number": "156",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Creature — Plant Wolf",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/6aea6702-16a8-4073-9c83-fbea20a5fd32_f.jpg",
+    "back_image": null,
+    "oracle_text": "Defender\nAs long as you control a creature with power 4 or greater, this creature can attack as though it didn't have defender."
+  },
+  {
+    "id": "52eef0d6-24b7-40b7-8403-e8e863d0cd55",
+    "name": "Bristly Bill, Spine Sower",
+    "set": "otj",
+    "collector_number": "157",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Plant Druid",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/52eef0d6-24b7-40b7-8403-e8e863d0cd55_f.jpg",
+    "back_image": null,
+    "oracle_text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control."
+  },
+  {
+    "id": "2e0e27f9-dc2c-4366-b810-3e8d0bdff8c3",
+    "name": "Cactarantula",
+    "set": "otj",
+    "collector_number": "158",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6,
+    "type_line": "Creature — Plant Spider",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/2e0e27f9-dc2c-4366-b810-3e8d0bdff8c3_f.jpg",
+    "back_image": null,
+    "oracle_text": "This spell costs {1} less to cast if you control a Desert.\nReach\nWhenever this creature becomes the target of a spell or ability an opponent controls, you may draw a card."
+  },
+  {
+    "id": "17a104d3-e4ac-44a0-9c6a-39965b1b9751",
+    "name": "Colossal Rattlewurm",
+    "set": "otj",
+    "collector_number": "159",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4,
+    "type_line": "Creature — Wurm",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/17a104d3-e4ac-44a0-9c6a-39965b1b9751_f.jpg",
+    "back_image": null,
+    "oracle_text": "Colossal Rattlewurm has flash as long as you control a Desert.\nTrample\n{1}{G}, Exile this card from your graveyard: Search your library for a Desert card, put it onto the battlefield tapped, then shuffle."
+  },
+  {
+    "id": "caf0e715-befb-4904-82e6-d3f8c7fbd454",
+    "name": "Dance of the Tumbleweeds",
+    "set": "otj",
+    "collector_number": "160",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/caf0e715-befb-4904-82e6-d3f8c7fbd454_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {1} — Search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle.\n+ {3} — Create an X/X green Elemental creature token, where X is the number of lands you control."
+  },
+  {
+    "id": "560062cd-34f8-4d30-9e25-099b03961724",
+    "name": "Drover Grizzly",
+    "set": "otj",
+    "collector_number": "161",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Bear Mount",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/560062cd-34f8-4d30-9e25-099b03961724_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks while saddled, creatures you control gain trample until end of turn.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "92762169-095e-46e2-82f6-5b2ff2232240",
+    "name": "Freestrider Commando",
+    "set": "otj",
+    "collector_number": "162",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Centaur Mercenary",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/92762169-095e-46e2-82f6-5b2ff2232240_f.jpg",
+    "back_image": null,
+    "oracle_text": "This creature enters with two +1/+1 counters on it if it wasn't cast or no mana was spent to cast it.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "32370f05-52a2-405f-b2bb-1b8a9b0b69f8",
+    "name": "Freestrider Lookout",
+    "set": "otj",
+    "collector_number": "163",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Human Rogue",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/32370f05-52a2-405f-b2bb-1b8a9b0b69f8_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach\nWhenever you commit a crime, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "084748d8-7169-4e86-a69c-631c6d7d3a1e",
+    "name": "Full Steam Ahead",
+    "set": "otj",
+    "collector_number": "164",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5,
+    "type_line": "Sorcery",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/084748d8-7169-4e86-a69c-631c6d7d3a1e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Until end of turn, each creature you control gets +2/+2 and gains trample and \"This creature can't be blocked by more than one creature.\""
+  },
+  {
+    "id": "919826a9-c427-42c6-8885-a87f0b6d2192",
+    "name": "Giant Beaver",
+    "set": "otj",
+    "collector_number": "165",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{G}",
+    "cmc": 4,
+    "type_line": "Creature — Beaver Mount",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/919826a9-c427-42c6-8885-a87f0b6d2192_f.jpg",
+    "back_image": null,
+    "oracle_text": "Vigilance\nWhenever this creature attacks while saddled, put a +1/+1 counter on target creature that saddled it this turn.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "15845be1-919d-4450-9de6-3552c52e8623",
+    "name": "Gold Rush",
+    "set": "otj",
+    "collector_number": "166",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/15845be1-919d-4450-9de6-3552c52e8623_f.jpg",
+    "back_image": null,
+    "oracle_text": "Create a Treasure token. Until end of turn, up to one target creature gets +2/+2 for each Treasure you control."
+  },
+  {
+    "id": "de0e01e4-e143-47fd-8565-7b48219bb546",
+    "name": "Goldvein Hydra",
+    "set": "otj",
+    "collector_number": "167",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{X}{G}",
+    "cmc": 1,
+    "type_line": "Creature — Hydra",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/de0e01e4-e143-47fd-8565-7b48219bb546_f.jpg",
+    "back_image": null,
+    "oracle_text": "Vigilance, trample, haste\nThis creature enters with X +1/+1 counters on it.\nWhen this creature dies, create a number of tapped Treasure tokens equal to its power."
+  },
+  {
+    "id": "cbe544fb-93b7-4640-b886-cb0b3e437357",
+    "name": "Hardbristle Bandit",
+    "set": "otj",
+    "collector_number": "168",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Creature — Plant Rogue",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/cbe544fb-93b7-4640-b886-cb0b3e437357_f.jpg",
+    "back_image": null,
+    "oracle_text": "{T}: Add one mana of any color.\nWhenever you commit a crime, untap this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "4d6cdf2a-026a-41ba-87d9-8fcd8a67f06e",
+    "name": "Intrepid Stablemaster",
+    "set": "otj",
+    "collector_number": "169",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Creature — Human Scout",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/4d6cdf2a-026a-41ba-87d9-8fcd8a67f06e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach\n{T}: Add {G}.\n{T}: Add two mana of any one color. Spend this mana only to cast Mount or Vehicle spells."
+  },
+  {
+    "id": "165f4428-e1a1-477d-bd90-138189e88163",
+    "name": "Map the Frontier",
+    "set": "otj",
+    "collector_number": "170",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{G}",
+    "cmc": 4,
+    "type_line": "Sorcery",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/165f4428-e1a1-477d-bd90-138189e88163_f.jpg",
+    "back_image": null,
+    "oracle_text": "Search your library for up to two basic land cards and/or Desert cards, put them onto the battlefield tapped, then shuffle."
+  },
+  {
+    "id": "0020c31b-002a-4121-bc61-2c2c16e9afc8",
+    "name": "Ornery Tumblewagg",
+    "set": "otj",
+    "collector_number": "171",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Brushwagg Mount",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/0020c31b-002a-4121-bc61-2c2c16e9afc8_f.jpg",
+    "back_image": null,
+    "oracle_text": "At the beginning of combat on your turn, put a +1/+1 counter on target creature.\nWhenever this creature attacks while saddled, double the number of +1/+1 counters on target creature.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "c9458f0f-5593-4ac9-934c-e215ef8093a7",
+    "name": "Outcaster Greenblade",
+    "set": "otj",
+    "collector_number": "172",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Human Mercenary",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c9458f0f-5593-4ac9-934c-e215ef8093a7_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle.\nThis creature gets +1/+1 for each Desert you control."
+  },
+  {
+    "id": "33b9cd6c-d75c-4905-aa38-ff03a9c4b398",
+    "name": "Outcaster Trailblazer",
+    "set": "otj",
+    "collector_number": "173",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Human Druid",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/33b9cd6c-d75c-4905-aa38-ff03a9c4b398_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, add one mana of any color.\nWhenever another creature you control with power 4 or greater enters, draw a card.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "1dd17cea-9e8c-4dba-b6ab-a6b9de87a306",
+    "name": "Patient Naturalist",
+    "set": "otj",
+    "collector_number": "174",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Human Scout",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1dd17cea-9e8c-4dba-b6ab-a6b9de87a306_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, mill three cards. Put a land card from among the milled cards into your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards of your library into your graveyard.)"
+  },
+  {
+    "id": "9ec1f76f-f21d-4f06-8c02-be6745183348",
+    "name": "Railway Brawler",
+    "set": "otj",
+    "collector_number": "175",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5,
+    "type_line": "Creature — Rhino Warrior",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/9ec1f76f-f21d-4f06-8c02-be6745183348_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach, trample\nWhenever another creature you control enters, put X +1/+1 counters on it, where X is its power.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "19d1e75f-0fee-4e07-9420-df771b696e85",
+    "name": "Rambling Possum",
+    "set": "otj",
+    "collector_number": "176",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3,
+    "type_line": "Creature — Possum Mount",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/19d1e75f-0fee-4e07-9420-df771b696e85_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature attacks while saddled, it gets +1/+2 until end of turn. Then you may return any number of creatures that saddled it this turn to their owner's hand.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "8dc3cbfe-410f-40e3-8021-647a2efb50bf",
+    "name": "Raucous Entertainer",
+    "set": "otj",
+    "collector_number": "177",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Creature — Plant Bard",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/8dc3cbfe-410f-40e3-8021-647a2efb50bf_f.jpg",
+    "back_image": null,
+    "oracle_text": "{1}, {T}: Put a +1/+1 counter on each creature you control that entered this turn."
+  },
+  {
+    "id": "eb871985-a11b-4dfe-b0e3-898888c86277",
+    "name": "Reach for the Sky",
+    "set": "otj",
+    "collector_number": "178",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}{G}",
+    "cmc": 4,
+    "type_line": "Enchantment — Aura",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/eb871985-a11b-4dfe-b0e3-898888c86277_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nEnchant creature\nEnchanted creature gets +3/+2 and has reach.\nWhen this Aura is put into a graveyard from the battlefield, draw a card."
+  },
+  {
+    "id": "f4e879d8-a058-48e8-9733-f58b1e0da4b9",
+    "name": "Rise of the Varmints",
+    "set": "otj",
+    "collector_number": "179",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{G}",
+    "cmc": 4,
+    "type_line": "Sorcery",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f4e879d8-a058-48e8-9733-f58b1e0da4b9_f.jpg",
+    "back_image": null,
+    "oracle_text": "Create X 2/1 green Varmint creature tokens, where X is the number of creature cards in your graveyard.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "e7fbb489-e2b5-4278-8162-86802cf124d8",
+    "name": "Smuggler's Surprise",
+    "set": "otj",
+    "collector_number": "180",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{G}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e7fbb489-e2b5-4278-8162-86802cf124d8_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2} — Mill four cards. You may put up to two creature and/or land cards from among the milled cards into your hand.\n+ {4}{G} — You may put up to two creature cards from your hand onto the battlefield.\n+ {1} — Creatures you control with power 4 or greater gain hexproof and indestructible until end of turn."
+  },
+  {
+    "id": "133fbdec-0d00-433f-9015-5eb091126e3a",
+    "name": "Snakeskin Veil",
+    "set": "otj",
+    "collector_number": "181",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{G}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/133fbdec-0d00-433f-9015-5eb091126e3a_f.jpg",
+    "back_image": null,
+    "oracle_text": "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+  },
+  {
+    "id": "f79d63e7-a8c6-4750-91c9-c575a4d0561b",
+    "name": "Spinewoods Armadillo",
+    "set": "otj",
+    "collector_number": "182",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6,
+    "type_line": "Creature — Armadillo",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f79d63e7-a8c6-4750-91c9-c575a4d0561b_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach\nWard {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)\n{1}{G}, Discard this card: Search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle. You gain 3 life."
+  },
+  {
+    "id": "1b2b432d-9e73-4ab2-a098-546d406df6c0",
+    "name": "Spinewoods Paladin",
+    "set": "otj",
+    "collector_number": "183",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{4}{G}",
+    "cmc": 5,
+    "type_line": "Creature — Human Knight",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1b2b432d-9e73-4ab2-a098-546d406df6c0_f.jpg",
+    "back_image": null,
+    "oracle_text": "Trample\nWhen this creature enters, you gain 3 life.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670",
+    "name": "Stubborn Burrowfiend",
+    "set": "otj",
+    "collector_number": "184",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Creature — Badger Beast Mount",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/6d963eb4-d20b-4d3f-bf5d-c75f7bcb9670_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this creature becomes saddled for the first time each turn, mill two cards, then this creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "775874cc-4b78-4904-9c97-431c2e400c64",
+    "name": "Throw from the Saddle",
+    "set": "otj",
+    "collector_number": "185",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/775874cc-4b78-4904-9c97-431c2e400c64_f.jpg",
+    "back_image": null,
+    "oracle_text": "Target creature you control gets +1/+1 until end of turn. Put a +1/+1 counter on it instead if it's a Mount. Then it deals damage equal to its power to target creature you don't control."
+  },
+  {
+    "id": "eda59f99-1d6d-4051-ac89-b7cbfa19262e",
+    "name": "Trash the Town",
+    "set": "otj",
+    "collector_number": "186",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{G}",
+    "cmc": 1,
+    "type_line": "Instant",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/eda59f99-1d6d-4051-ac89-b7cbfa19262e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spree (Choose one or more additional costs.)\n+ {2} — Put two +1/+1 counters on target creature.\n+ {1} — Target creature gains trample until end of turn.\n+ {1} — Until end of turn, target creature gains \"Whenever this creature deals combat damage to a player, draw two cards.\""
+  },
+  {
+    "id": "275d2d2a-ef85-48c9-919d-bc62cdad8a10",
+    "name": "Tumbleweed Rising",
+    "set": "otj",
+    "collector_number": "187",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/275d2d2a-ef85-48c9-919d-bc62cdad8a10_f.jpg",
+    "back_image": null,
+    "oracle_text": "Create an X/X green Elemental creature token, where X is the greatest power among creatures you control.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "99b74fa3-c1d7-4780-977d-f2d6663a529a",
+    "name": "Voracious Varmint",
+    "set": "otj",
+    "collector_number": "188",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{1}{G}",
+    "cmc": 2,
+    "type_line": "Creature — Varmint",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/99b74fa3-c1d7-4780-977d-f2d6663a529a_f.jpg",
+    "back_image": null,
+    "oracle_text": "Vigilance\n{1}, Sacrifice this creature: Destroy target artifact or enchantment."
+  },
+  {
+    "id": "68fd8548-50db-4243-9154-377f32408d58",
+    "name": "Akul the Unrepentant",
+    "set": "otj",
+    "collector_number": "189",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{B}{B}{R}{R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Scorpion Dragon Rogue",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/68fd8548-50db-4243-9154-377f32408d58_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, trample\nSacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn."
+  },
+  {
+    "id": "8d4af7c3-a70d-4f71-b27d-b268c4a0f81e",
+    "name": "Annie Flash, the Veteran",
+    "set": "otj",
+    "collector_number": "190",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{3}{R}{G}{W}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Human Rogue",
+    "colors": [
+      "G",
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/8d4af7c3-a70d-4f71-b27d-b268c4a0f81e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nWhen Annie Flash enters, if you cast it, return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped.\nWhenever Annie Flash becomes tapped, exile the top two cards of your library. You may play those cards this turn."
+  },
+  {
+    "id": "1624a5f4-f5bc-47c9-85de-c5520ee234ce",
+    "name": "Annie Joins Up",
+    "set": "otj",
+    "collector_number": "191",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{R}{G}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Enchantment",
+    "colors": [
+      "G",
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1624a5f4-f5bc-47c9-85de-c5520ee234ce_f.jpg",
+    "back_image": null,
+    "oracle_text": "When Annie Joins Up enters, it deals 5 damage to target creature or planeswalker an opponent controls.\nIf a triggered ability of a legendary creature you control triggers, that ability triggers an additional time."
+  },
+  {
+    "id": "014bf3c6-e46f-48f8-902f-82deeba260b2",
+    "name": "Assimilation Aegis",
+    "set": "otj",
+    "collector_number": "192",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{1}{W}{U}",
+    "cmc": 3,
+    "type_line": "Artifact — Equipment",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/014bf3c6-e46f-48f8-902f-82deeba260b2_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this Equipment enters, exile up to one target creature until this Equipment leaves the battlefield.\nWhenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, that creature becomes a copy of a creature card exiled with this Equipment.\nEquip {2}"
+  },
+  {
+    "id": "897d594d-b5b0-43dc-b877-b483942416ce",
+    "name": "At Knifepoint",
+    "set": "otj",
+    "collector_number": "193",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{B}{R}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/897d594d-b5b0-43dc-b877-b483942416ce_f.jpg",
+    "back_image": null,
+    "oracle_text": "During your turn, outlaws you control have first strike. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nWhenever you commit a crime, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\" This ability triggers only once each turn."
+  },
+  {
+    "id": "8d3ef971-cdd4-410c-97c3-df98e4f02ab2",
+    "name": "Badlands Revival",
+    "set": "otj",
+    "collector_number": "194",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{B}{G}",
+    "cmc": 5,
+    "type_line": "Sorcery",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/8d3ef971-cdd4-410c-97c3-df98e4f02ab2_f.jpg",
+    "back_image": null,
+    "oracle_text": "Return up to one target creature card from your graveyard to the battlefield. Return up to one target permanent card from your graveyard to your hand."
+  },
+  {
+    "id": "e9da18b4-1efc-44b7-8001-a2cfd44c69bf",
+    "name": "Baron Bertram Graywater",
+    "set": "otj",
+    "collector_number": "195",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{W}{B}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Vampire Noble",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e9da18b4-1efc-44b7-8001-a2cfd44c69bf_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever one or more tokens you control enter, create a 1/1 black Vampire Rogue creature token with lifelink. This ability triggers only once each turn.\n{1}{B}, Sacrifice another creature or artifact: Draw a card."
+  },
+  {
+    "id": "4383ae7c-58ea-4354-93e4-677ad185c3bb",
+    "name": "Bonny Pall, Clearcutter",
+    "set": "otj",
+    "collector_number": "196",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{3}{G}{U}{U}",
+    "cmc": 6,
+    "type_line": "Legendary Creature — Giant Scout",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/4383ae7c-58ea-4354-93e4-677ad185c3bb_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach\nWhen Bonny Pall enters, create Beau, a legendary blue Ox creature token with \"Beau's power and toughness are each equal to the number of lands you control.\"\nWhenever you attack, draw a card, then you may put a land card from your hand or graveyard onto the battlefield."
+  },
+  {
+    "id": "cf3bda9e-42af-4f99-a504-c96c25c2794b",
+    "name": "Breeches, the Blastmaker",
+    "set": "otj",
+    "collector_number": "197",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Goblin Pirate",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/cf3bda9e-42af-4f99-a504-c96c25c2794b_f.jpg",
+    "back_image": null,
+    "oracle_text": "Menace\nWhenever you cast your second spell each turn, you may sacrifice an artifact. If you do, flip a coin. When you win the flip, copy that spell. You may choose new targets for the copy. When you lose the flip, Breeches deals damage equal to that spell's mana value to any target."
+  },
+  {
+    "id": "286c55c2-dcc1-4e87-a83f-9981d28ab62d",
+    "name": "Bruse Tarl, Roving Rancher",
+    "set": "otj",
+    "collector_number": "198",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Warrior",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/286c55c2-dcc1-4e87-a83f-9981d28ab62d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Oxen you control have double strike.\nWhenever Bruse Tarl enters or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn."
+  },
+  {
+    "id": "318b8c5d-9fb0-488f-9b32-c2e29d1f1dbb",
+    "name": "Cactusfolk Sureshot",
+    "set": "otj",
+    "collector_number": "199",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{R}{G}",
+    "cmc": 4,
+    "type_line": "Creature — Plant Mercenary",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/318b8c5d-9fb0-488f-9b32-c2e29d1f1dbb_f.jpg",
+    "back_image": null,
+    "oracle_text": "Reach\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nAt the beginning of combat on your turn, other creatures you control with power 4 or greater gain trample and haste until end of turn."
+  },
+  {
+    "id": "0ef4907a-2fc1-42c5-bffc-3b3f93601fb9",
+    "name": "Congregation Gryff",
+    "set": "otj",
+    "collector_number": "200",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{G}{W}",
+    "cmc": 3,
+    "type_line": "Creature — Hippogriff Mount",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/0ef4907a-2fc1-42c5-bffc-3b3f93601fb9_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, lifelink\nWhenever this creature attacks while saddled, it gets +X/+X until end of turn, where X is the number of Mounts you control.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "6fc27b30-8c8e-434c-a72c-e1d409efc1ae",
+    "name": "Doc Aurlock, Grizzled Genius",
+    "set": "otj",
+    "collector_number": "201",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{G}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Bear Druid",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/6fc27b30-8c8e-434c-a72c-e1d409efc1ae_f.jpg",
+    "back_image": null,
+    "oracle_text": "Spells you cast from your graveyard or from exile cost {2} less to cast.\nPlotting cards from your hand costs {2} less."
+  },
+  {
+    "id": "f46c133a-7ae4-431b-88f2-ec606a7baf69",
+    "name": "Eriette, the Beguiler",
+    "set": "otj",
+    "collector_number": "202",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{W}{U}{B}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Warlock",
+    "colors": [
+      "B",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/f46c133a-7ae4-431b-88f2-ec606a7baf69_f.jpg",
+    "back_image": null,
+    "oracle_text": "Lifelink\nWhenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura's mana value, gain control of that permanent for as long as that Aura is attached to it."
+  },
+  {
+    "id": "a4e81be6-6447-4f1e-be00-6fcdb2ab35af",
+    "name": "Ertha Jo, Frontier Mentor",
+    "set": "otj",
+    "collector_number": "203",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Kor Advisor",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/a4e81be6-6447-4f1e-be00-6fcdb2ab35af_f.jpg",
+    "back_image": null,
+    "oracle_text": "When Ertha Jo enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nWhenever you activate an ability that targets a creature or player, copy that ability. You may choose new targets for the copy."
+  },
+  {
+    "id": "39ee1387-c24e-4a66-8ad6-9afa9c0abcbb",
+    "name": "Form a Posse",
+    "set": "otj",
+    "collector_number": "204",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{X}{R}{W}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/39ee1387-c24e-4a66-8ad6-9afa9c0abcbb_f.jpg",
+    "back_image": null,
+    "oracle_text": "Create X 1/1 red Mercenary creature tokens with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+  },
+  {
+    "id": "e43e3d71-4fb8-4ab1-8c8f-b65ae3ad4cc4",
+    "name": "Ghired, Mirror of the Wilds",
+    "set": "otj",
+    "collector_number": "205",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{R}{G}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Shaman",
+    "colors": [
+      "G",
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e43e3d71-4fb8-4ab1-8c8f-b65ae3ad4cc4_f.jpg",
+    "back_image": null,
+    "oracle_text": "Haste\nNontoken creatures you control have \"{T}: Create a token that's a copy of target token you control that entered this turn.\""
+  },
+  {
+    "id": "82512813-8618-483b-a7f0-e6a611d9d487",
+    "name": "The Gitrog, Ravenous Ride",
+    "set": "otj",
+    "collector_number": "206",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{3}{B}{G}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Frog Horror Mount",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/82512813-8618-483b-a7f0-e6a611d9d487_f.jpg",
+    "back_image": null,
+    "oracle_text": "Trample, haste\nWhenever The Gitrog deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.\nSaddle 1"
+  },
+  {
+    "id": "259ddf66-76af-4857-83c3-c812327a6e23",
+    "name": "Honest Rutstein",
+    "set": "otj",
+    "collector_number": "207",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{B}{G}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Warlock",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/259ddf66-76af-4857-83c3-c812327a6e23_f.jpg",
+    "back_image": null,
+    "oracle_text": "When Honest Rutstein enters, return target creature card from your graveyard to your hand.\nCreature spells you cast cost {1} less to cast."
+  },
+  {
+    "id": "596fb7a2-bb79-44b7-ad84-414c8139ec13",
+    "name": "Intimidation Campaign",
+    "set": "otj",
+    "collector_number": "208",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{U}{B}",
+    "cmc": 3,
+    "type_line": "Enchantment",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/596fb7a2-bb79-44b7-ad84-414c8139ec13_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this enchantment enters, each opponent loses 1 life, you gain 1 life, and you draw a card.\nWhenever you commit a crime, you may return this enchantment to its owner's hand. (It returns only from the battlefield. Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "e24fe6dc-662a-4abc-ad60-a1959b2be006",
+    "name": "Jem Lightfoote, Sky Explorer",
+    "set": "otj",
+    "collector_number": "209",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{W}{U}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Human Scout",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e24fe6dc-662a-4abc-ad60-a1959b2be006_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, vigilance\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card."
+  },
+  {
+    "id": "fe30b5c8-4889-4350-bb1d-3e2a67d9dfb2",
+    "name": "Jolene, Plundering Pugilist",
+    "set": "otj",
+    "collector_number": "210",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Mercenary",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/fe30b5c8-4889-4350-bb1d-3e2a67d9dfb2_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you attack with one or more creatures with power 4 or greater, create a Treasure token.\n{1}{R}, Sacrifice a Treasure: Jolene deals 1 damage to any target."
+  },
+  {
+    "id": "d53a775d-5898-41a8-b404-9b7d4721c6ba",
+    "name": "Kambal, Profiteering Mayor",
+    "set": "otj",
+    "collector_number": "211",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{W}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Advisor",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/d53a775d-5898-41a8-b404-9b7d4721c6ba_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever one or more tokens your opponents control enter, for each of them, create a tapped token that's a copy of it. This ability triggers only once each turn.\nWhenever one or more tokens you control enter, each opponent loses 1 life and you gain 1 life."
+  },
+  {
+    "id": "2e7f95d5-b279-4469-9c89-1e02630d61e6",
+    "name": "Kellan Joins Up",
+    "set": "otj",
+    "collector_number": "212",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{G}{W}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Enchantment",
+    "colors": [
+      "G",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/2e7f95d5-b279-4469-9c89-1e02630d61e6_f.jpg",
+    "back_image": null,
+    "oracle_text": "When Kellan Joins Up enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)\nWhenever a legendary creature you control enters, put a +1/+1 counter on each creature you control."
+  },
+  {
+    "id": "04dfbc4c-ab21-45db-bbd9-b9d245d60015",
+    "name": "Kellan, the Kid",
+    "set": "otj",
+    "collector_number": "213",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{G}{W}{U}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Faerie Rogue",
+    "colors": [
+      "G",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/04dfbc4c-ab21-45db-bbd9-b9d245d60015_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, lifelink\nWhenever you cast a spell from anywhere other than your hand, you may cast a permanent spell with equal or lesser mana value from your hand without paying its mana cost. If you don't, you may put a land card from your hand onto the battlefield."
+  },
+  {
+    "id": "958a3e6b-7e20-40ea-8b2c-7c728934b5e5",
+    "name": "Kraum, Violent Cacophony",
+    "set": "otj",
+    "collector_number": "214",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}{U}{R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Zombie Horror",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/958a3e6b-7e20-40ea-8b2c-7c728934b5e5_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying\nWhenever you cast your second spell each turn, put a +1/+1 counter on Kraum and draw a card."
+  },
+  {
+    "id": "af0b3a41-ba99-41e8-bcfb-5796500c17c7",
+    "name": "Laughing Jasper Flint",
+    "set": "otj",
+    "collector_number": "215",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{B}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Lizard Rogue",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/af0b3a41-ba99-41e8-bcfb-5796500c17c7_f.jpg",
+    "back_image": null,
+    "oracle_text": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells."
+  },
+  {
+    "id": "00293326-3eb2-492c-b565-7abafa037d8c",
+    "name": "Lazav, Familiar Stranger",
+    "set": "otj",
+    "collector_number": "216",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{U}{B}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Shapeshifter",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/00293326-3eb2-492c-b565-7abafa037d8c_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime, put a +1/+1 counter on Lazav. Then you may exile a card from a graveyard. If a creature card was exiled this way, you may have Lazav become a copy of that card until end of turn. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "e21f90ea-5934-4757-8515-38ef116afac1",
+    "name": "Lilah, Undefeated Slickshot",
+    "set": "otj",
+    "collector_number": "217",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Rogue",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/e21f90ea-5934-4757-8515-38ef116afac1_f.jpg",
+    "back_image": null,
+    "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a multicolored instant or sorcery spell from your hand, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)"
+  },
+  {
+    "id": "0557b0a3-2b48-408f-a508-9f4da2ab1cd1",
+    "name": "Make Your Own Luck",
+    "set": "otj",
+    "collector_number": "218",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{G}{U}",
+    "cmc": 5,
+    "type_line": "Sorcery",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/0557b0a3-2b48-408f-a508-9f4da2ab1cd1_f.jpg",
+    "back_image": null,
+    "oracle_text": "Look at the top three cards of your library. You may exile a nonland card from among them. If you do, it becomes plotted. Put the rest into your hand. (You may cast it as a sorcery on a later turn without paying its mana cost.)"
+  },
+  {
+    "id": "521dffaa-813b-41e4-b7c2-a8c407167875",
+    "name": "Malcolm, the Eyes",
+    "set": "otj",
+    "collector_number": "219",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{U}{R}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Siren Pirate",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/521dffaa-813b-41e4-b7c2-a8c407167875_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, haste\nWhenever you cast your second spell each turn, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+  },
+  {
+    "id": "ee29b59c-d57c-4a03-bae7-e9dfa57d6bb1",
+    "name": "Marchesa, Dealer of Death",
+    "set": "otj",
+    "collector_number": "220",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{U}{B}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Rogue",
+    "colors": [
+      "B",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/ee29b59c-d57c-4a03-bae7-e9dfa57d6bb1_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime, you may pay {1}. If you do, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+  },
+  {
+    "id": "bfa7750a-7c32-4413-b762-62e24d992c6b",
+    "name": "Miriam, Herd Whisperer",
+    "set": "otj",
+    "collector_number": "221",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{G}{W}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Human Druid",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/bfa7750a-7c32-4413-b762-62e24d992c6b_f.jpg",
+    "back_image": null,
+    "oracle_text": "During your turn, Mounts and Vehicles you control have hexproof.\nWhenever a Mount or Vehicle you control attacks, put a +1/+1 counter on it."
+  },
+  {
+    "id": "03415c42-086e-4a2e-9be8-5cdcde83f134",
+    "name": "Obeka, Splitter of Seconds",
+    "set": "otj",
+    "collector_number": "222",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{U}{B}{R}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Ogre Warlock",
+    "colors": [
+      "B",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/03415c42-086e-4a2e-9be8-5cdcde83f134_f.jpg",
+    "back_image": null,
+    "oracle_text": "Menace\nWhenever Obeka deals combat damage to a player, you get that many additional upkeep steps after this phase."
+  },
+  {
+    "id": "396df8d6-e85d-4486-8116-68841b7e1e2e",
+    "name": "Oko, the Ringleader",
+    "set": "otj",
+    "collector_number": "223",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{2}{G}{U}",
+    "cmc": 4,
+    "type_line": "Legendary Planeswalker — Oko",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/396df8d6-e85d-4486-8116-68841b7e1e2e_f.jpg",
+    "back_image": null,
+    "oracle_text": "At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.\n+1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.\n−1: Create a 3/3 green Elk creature token.\n−5: For each other nonland permanent you control, create a token that's a copy of that permanent."
+  },
+  {
+    "id": "fa3b415f-7901-4ab4-84fe-60b90d40ac90",
+    "name": "Pillage the Bog",
+    "set": "otj",
+    "collector_number": "224",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{B}{G}",
+    "cmc": 2,
+    "type_line": "Sorcery",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/fa3b415f-7901-4ab4-84fe-60b90d40ac90_f.jpg",
+    "back_image": null,
+    "oracle_text": "Look at the top X cards of your library, where X is twice the number of lands you control. Put one of them into your hand and the rest on the bottom of your library in a random order.\nPlot {1}{B}{G} (You may pay {1}{B}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+  },
+  {
+    "id": "c7154dca-7e10-4c34-aa56-9f200c6277d1",
+    "name": "Rakdos Joins Up",
+    "set": "otj",
+    "collector_number": "225",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{3}{B}{R}",
+    "cmc": 5,
+    "type_line": "Legendary Enchantment",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c7154dca-7e10-4c34-aa56-9f200c6277d1_f.jpg",
+    "back_image": null,
+    "oracle_text": "When Rakdos Joins Up enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.\nWhenever a legendary creature you control dies, Rakdos Joins Up deals damage equal to that creature's power to target opponent."
+  },
+  {
+    "id": "bb34babd-1b85-4a7d-a066-a8337805056e",
+    "name": "Rakdos, the Muscle",
+    "set": "otj",
+    "collector_number": "226",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{2}{B}{B}{R}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Demon Mercenary",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/bb34babd-1b85-4a7d-a066-a8337805056e_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flying, trample\nWhenever you sacrifice another creature, exile cards equal to its mana value from the top of target player's library. Until your next end step, you may play those cards, and mana of any type can be spent to cast those spells.\nSacrifice another creature: Rakdos gains indestructible until end of turn. Tap it. Activate only once each turn."
+  },
+  {
+    "id": "21b63544-4c31-4f38-9907-0407719a60b1",
+    "name": "Riku of Many Paths",
+    "set": "otj",
+    "collector_number": "227",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{G}{U}{R}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Wizard",
+    "colors": [
+      "G",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/21b63544-4c31-4f38-9907-0407719a60b1_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —\n• Exile the top card of your library. Until the end of your next turn, you may play it.\n• Put a +1/+1 counter on Riku. It gains trample until end of turn.\n• Create a 1/1 blue Bird creature token with flying."
+  },
+  {
+    "id": "11fbe52f-febd-49fc-8391-28d3efe9c3eb",
+    "name": "Roxanne, Starfall Savant",
+    "set": "otj",
+    "collector_number": "228",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{3}{R}{G}",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Cat Druid",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/11fbe52f-febd-49fc-8391-28d3efe9c3eb_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever Roxanne enters or attacks, create a tapped colorless artifact token named Meteorite with \"When this token enters, it deals 2 damage to any target\" and \"{T}: Add one mana of any color.\"\nWhenever you tap an artifact token for mana, add one mana of any type that artifact token produced."
+  },
+  {
+    "id": "927b5498-23f1-47c0-b441-7daaeb54f9b8",
+    "name": "Ruthless Lawbringer",
+    "set": "otj",
+    "collector_number": "229",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}{W}{B}",
+    "cmc": 3,
+    "type_line": "Creature — Vampire Assassin",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/927b5498-23f1-47c0-b441-7daaeb54f9b8_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, you may sacrifice another creature. When you do, destroy target nonland permanent."
+  },
+  {
+    "id": "acc9a5cc-2b3c-4c2f-8176-4a2d86265cc5",
+    "name": "Satoru, the Infiltrator",
+    "set": "otj",
+    "collector_number": "230",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{U}{B}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Human Ninja Rogue",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/acc9a5cc-2b3c-4c2f-8176-4a2d86265cc5_f.jpg",
+    "back_image": null,
+    "oracle_text": "Menace\nWhenever Satoru and/or one or more other nontoken creatures you control enter, if none of them were cast or no mana was spent to cast them, draw a card."
+  },
+  {
+    "id": "7d2e167f-7cb2-4f15-a1db-7ee56b7ba523",
+    "name": "Selvala, Eager Trailblazer",
+    "set": "otj",
+    "collector_number": "231",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{2}{G}{W}",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Elf Scout",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/7d2e167f-7cb2-4f15-a1db-7ee56b7ba523_f.jpg",
+    "back_image": null,
+    "oracle_text": "Vigilance\nWhenever you cast a creature spell, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\n{T}: Choose a color. Add one mana of that color for each different power among creatures you control."
+  },
+  {
+    "id": "7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf",
+    "name": "Seraphic Steed",
+    "set": "otj",
+    "collector_number": "232",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{G}{W}",
+    "cmc": 2,
+    "type_line": "Creature — Unicorn Mount",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/7ada7ab4-0dee-4ff3-9817-1e61ca3f2ccf_f.jpg",
+    "back_image": null,
+    "oracle_text": "First strike, lifelink\nWhenever this creature attacks while saddled, create a 3/3 white Angel creature token with flying.\nSaddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+  },
+  {
+    "id": "beb1c974-0d35-4e9f-a310-44eb2af64494",
+    "name": "Slick Sequence",
+    "set": "otj",
+    "collector_number": "233",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{U}{R}",
+    "cmc": 2,
+    "type_line": "Instant",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/beb1c974-0d35-4e9f-a310-44eb2af64494_f.jpg",
+    "back_image": null,
+    "oracle_text": "Slick Sequence deals 2 damage to any target. If you've cast another spell this turn, draw a card."
+  },
+  {
+    "id": "1643af0b-fcbf-4636-8c50-77ec77eaa34d",
+    "name": "Taii Wakeen, Perfect Shot",
+    "set": "otj",
+    "collector_number": "234",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{R}{W}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Human Mercenary",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/1643af0b-fcbf-4636-8c50-77ec77eaa34d_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever a source you control deals noncombat damage to a creature equal to that creature's toughness, draw a card.\n{X}, {T}: If a source you control would deal noncombat damage to a permanent or player this turn, it deals that much damage plus X instead."
+  },
+  {
+    "id": "3afce4e6-ac59-4fba-b63a-8fed96bbdc4a",
+    "name": "Vial Smasher, Gleeful Grenadier",
+    "set": "otj",
+    "collector_number": "235",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{B}{R}",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Goblin Mercenary",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/3afce4e6-ac59-4fba-b63a-8fed96bbdc4a_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever another outlaw you control enters, Vial Smasher deals 1 damage to target opponent. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)"
+  },
+  {
+    "id": "06e546c2-737e-4b17-bf60-3069b1ccdf31",
+    "name": "Vraska Joins Up",
+    "set": "otj",
+    "collector_number": "236",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{B}{G}",
+    "cmc": 2,
+    "type_line": "Legendary Enchantment",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/06e546c2-737e-4b17-bf60-3069b1ccdf31_f.jpg",
+    "back_image": null,
+    "oracle_text": "When Vraska Joins Up enters, put a deathtouch counter on each creature you control.\nWhenever a legendary creature you control deals combat damage to a player, draw a card."
+  },
+  {
+    "id": "b042abf2-c40b-4235-a4fa-2e4901c375c3",
+    "name": "Vraska, the Silencer",
+    "set": "otj",
+    "collector_number": "237",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{1}{B}{G}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Gorgon Assassin",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b042abf2-c40b-4235-a4fa-2e4901c375c3_f.jpg",
+    "back_image": null,
+    "oracle_text": "Deathtouch\nWhenever a nontoken creature an opponent controls dies, you may pay {1}. If you do, return that card to the battlefield tapped under your control. It's a Treasure artifact with \"{T}, Sacrifice this artifact: Add one mana of any color,\" and it loses all other card types."
+  },
+  {
+    "id": "b4d163dd-67dc-4aab-afb9-d043352d109c",
+    "name": "Wrangler of the Damned",
+    "set": "otj",
+    "collector_number": "238",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}{W}{U}",
+    "cmc": 5,
+    "type_line": "Creature — Human Soldier",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b4d163dd-67dc-4aab-afb9-d043352d109c_f.jpg",
+    "back_image": null,
+    "oracle_text": "Flash\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, create a 2/2 white Spirit creature token with flying."
+  },
+  {
+    "id": "bc97ffcf-4f51-44cd-8daa-a7dae4592ee5",
+    "name": "Wylie Duke, Atiin Hero",
+    "set": "otj",
+    "collector_number": "239",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "{1}{G}{W}",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Human Ranger",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/bc97ffcf-4f51-44cd-8daa-a7dae4592ee5_f.jpg",
+    "back_image": null,
+    "oracle_text": "Vigilance\nWhenever Wylie Duke becomes tapped, you gain 1 life and draw a card."
+  },
+  {
+    "id": "68b2e74b-933b-4285-963b-dda3a986a914",
+    "name": "Bandit's Haul",
+    "set": "otj",
+    "collector_number": "240",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}",
+    "cmc": 3,
+    "type_line": "Artifact",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/68b2e74b-933b-4285-963b-dda3a986a914_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever you commit a crime, put a loot counter on this artifact. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\n{T}: Add one mana of any color.\n{2}, {T}, Remove two loot counters from this artifact: Draw a card."
+  },
+  {
+    "id": "ea61d964-6d73-422e-9e08-360ac66f237a",
+    "name": "Boom Box",
+    "set": "otj",
+    "collector_number": "241",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/ea61d964-6d73-422e-9e08-360ac66f237a_f.jpg",
+    "back_image": null,
+    "oracle_text": "{6}, {T}, Sacrifice this artifact: Destroy up to one target artifact, up to one target creature, and up to one target land."
+  },
+  {
+    "id": "dc098aae-3d9b-453b-a37e-e102f81a8311",
+    "name": "Gold Pan",
+    "set": "otj",
+    "collector_number": "242",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact — Equipment",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/dc098aae-3d9b-453b-a37e-e102f81a8311_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this Equipment enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nEquipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+  },
+  {
+    "id": "e50709de-e6ef-4dbc-af1e-290fed279f34",
+    "name": "Lavaspur Boots",
+    "set": "otj",
+    "collector_number": "243",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{1}",
+    "cmc": 1,
+    "type_line": "Artifact — Equipment",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/e50709de-e6ef-4dbc-af1e-290fed279f34_f.jpg",
+    "back_image": null,
+    "oracle_text": "Equipped creature gets +1/+0 and has haste and ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)\nEquip {1}"
+  },
+  {
+    "id": "cc598338-eeba-4815-a0a6-ff2dc09790d2",
+    "name": "Luxurious Locomotive",
+    "set": "otj",
+    "collector_number": "244",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{5}",
+    "cmc": 5,
+    "type_line": "Artifact — Vehicle",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/cc598338-eeba-4815-a0a6-ff2dc09790d2_f.jpg",
+    "back_image": null,
+    "oracle_text": "Whenever this Vehicle attacks, create a Treasure token for each creature that crewed it this turn. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")\nCrew 1. Activate only once each turn. (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+  },
+  {
+    "id": "d5fa82e4-0b77-498a-bec0-52764d24957a",
+    "name": "Mobile Homestead",
+    "set": "otj",
+    "collector_number": "245",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact — Vehicle",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/d5fa82e4-0b77-498a-bec0-52764d24957a_f.jpg",
+    "back_image": null,
+    "oracle_text": "This Vehicle has haste as long as you control a Mount.\nWhenever this Vehicle attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)"
+  },
+  {
+    "id": "ee0dc663-4bfb-46d4-af79-d0143c799487",
+    "name": "Oasis Gardener",
+    "set": "otj",
+    "collector_number": "246",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}",
+    "cmc": 3,
+    "type_line": "Artifact Creature — Scarecrow",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/ee0dc663-4bfb-46d4-af79-d0143c799487_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, you gain 2 life.\n{T}: Add one mana of any color."
+  },
+  {
+    "id": "8eb98381-8418-4dfd-b7d1-4353570e611b",
+    "name": "Redrock Sentinel",
+    "set": "otj",
+    "collector_number": "247",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{3}",
+    "cmc": 3,
+    "type_line": "Artifact Creature — Golem",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/8eb98381-8418-4dfd-b7d1-4353570e611b_f.jpg",
+    "back_image": null,
+    "oracle_text": "Defender\n{2}, {T}, Sacrifice a land: Draw a card and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+  },
+  {
+    "id": "39d2c11d-1eb8-4768-bc61-fa8f20a69462",
+    "name": "Silver Deputy",
+    "set": "otj",
+    "collector_number": "248",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact Creature — Mercenary",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/39d2c11d-1eb8-4768-bc61-fa8f20a69462_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, you may search your library for a basic land card or a Desert card, reveal it, then shuffle and put it on top.\n{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery."
+  },
+  {
+    "id": "9e5bfcf5-6e5c-47fe-af6c-6b18938261c6",
+    "name": "Sterling Hound",
+    "set": "otj",
+    "collector_number": "249",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "{3}",
+    "cmc": 3,
+    "type_line": "Artifact Creature — Dog",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/9e5bfcf5-6e5c-47fe-af6c-6b18938261c6_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+  },
+  {
+    "id": "36e61cb8-219a-4fe6-a2e6-307665ffa38f",
+    "name": "Tomb Trawler",
+    "set": "otj",
+    "collector_number": "250",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "{2}",
+    "cmc": 2,
+    "type_line": "Artifact Creature — Golem",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/36e61cb8-219a-4fe6-a2e6-307665ffa38f_f.jpg",
+    "back_image": null,
+    "oracle_text": "{2}: Put target card from your graveyard on the bottom of your library."
+  },
+  {
+    "id": "19e96521-b4ce-4a36-a887-200e05ccc804",
+    "name": "Abraded Bluffs",
+    "set": "otj",
+    "collector_number": "251",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/19e96521-b4ce-4a36-a887-200e05ccc804_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {R} or {W}."
+  },
+  {
+    "id": "3f8c8fa2-12ab-4f6a-9f7a-2bc69e9ba024",
+    "name": "Arid Archway",
+    "set": "otj",
+    "collector_number": "252",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/3f8c8fa2-12ab-4f6a-9f7a-2bc69e9ba024_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{T}: Add {C}{C}."
+  },
+  {
+    "id": "d61dfeb7-7f6b-4601-8396-2cbb98165489",
+    "name": "Bristling Backwoods",
+    "set": "otj",
+    "collector_number": "253",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/d61dfeb7-7f6b-4601-8396-2cbb98165489_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {R} or {G}."
+  },
+  {
+    "id": "5ffa48cc-b991-4d47-b7ec-cf678915c758",
+    "name": "Conduit Pylons",
+    "set": "otj",
+    "collector_number": "254",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/5ffa48cc-b991-4d47-b7ec-cf678915c758_f.jpg",
+    "back_image": null,
+    "oracle_text": "When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color."
+  },
+  {
+    "id": "c5523dac-7aa0-4486-89c8-3b22a1411f26",
+    "name": "Creosote Heath",
+    "set": "otj",
+    "collector_number": "255",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/c5523dac-7aa0-4486-89c8-3b22a1411f26_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {G} or {W}."
+  },
+  {
+    "id": "5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770",
+    "name": "Eroded Canyon",
+    "set": "otj",
+    "collector_number": "256",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/5c9d080f-28d7-41d6-a4e0-5b3e3a5ed770_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {U} or {R}."
+  },
+  {
+    "id": "4ad841eb-da0d-43d4-8b60-efe30922990b",
+    "name": "Festering Gulch",
+    "set": "otj",
+    "collector_number": "257",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/4ad841eb-da0d-43d4-8b60-efe30922990b_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {B} or {G}."
+  },
+  {
+    "id": "963c100e-4e12-438f-b5ae-14391406dff6",
+    "name": "Forlorn Flats",
+    "set": "otj",
+    "collector_number": "258",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/963c100e-4e12-438f-b5ae-14391406dff6_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {W} or {B}."
+  },
+  {
+    "id": "5d809f5b-d965-4cb1-a9f8-2048f8534373",
+    "name": "Jagged Barrens",
+    "set": "otj",
+    "collector_number": "259",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "booster": true,
+    "image": "/cards/otj/5d809f5b-d965-4cb1-a9f8-2048f8534373_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {B} or {R}."
+  },
+  {
+    "id": "4b778b63-e5fc-4d63-a93b-4372f32cade2",
+    "name": "Lonely Arroyo",
+    "set": "otj",
+    "collector_number": "260",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/4b778b63-e5fc-4d63-a93b-4372f32cade2_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {W} or {U}."
+  },
+  {
+    "id": "988e44c5-4632-4ebb-b6ae-c3886e49d637",
+    "name": "Lush Oasis",
+    "set": "otj",
+    "collector_number": "261",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/988e44c5-4632-4ebb-b6ae-c3886e49d637_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {G} or {U}."
+  },
+  {
+    "id": "c3d2e816-c06d-4c5d-98fe-c350d8cfab27",
+    "name": "Mirage Mesa",
+    "set": "otj",
+    "collector_number": "262",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/c3d2e816-c06d-4c5d-98fe-c350d8cfab27_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped. As it enters, choose a color.\n{T}: Add one mana of the chosen color."
+  },
+  {
+    "id": "3ab4e0a4-2faf-456b-99e3-ee06c008538c",
+    "name": "Sandstorm Verge",
+    "set": "otj",
+    "collector_number": "263",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/3ab4e0a4-2faf-456b-99e3-ee06c008538c_f.jpg",
+    "back_image": null,
+    "oracle_text": "{T}: Add {C}.\n{3}, {T}: Target creature can't block this turn. Activate only as a sorcery."
+  },
+  {
+    "id": "67daa31c-d9c4-4c22-b29c-1b8a17d577e5",
+    "name": "Soured Springs",
+    "set": "otj",
+    "collector_number": "264",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/67daa31c-d9c4-4c22-b29c-1b8a17d577e5_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {U} or {B}."
+  },
+  {
+    "id": "6c4f6b81-53d0-49fb-b404-c2ad67de7493",
+    "name": "Bucolic Ranch",
+    "set": "otj",
+    "collector_number": "265",
+    "rarity": "uncommon",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land — Desert",
+    "colors": [],
+    "color_identity": [],
+    "booster": true,
+    "image": "/cards/otj/6c4f6b81-53d0-49fb-b404-c2ad67de7493_f.jpg",
+    "back_image": null,
+    "oracle_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Mount spell.\n{3}, {T}: Look at the top card of your library. If it's a Mount card, you may reveal it and put it into your hand. If you don't put it into your hand, you may put it on the bottom of your library."
+  },
+  {
+    "id": "861caabb-0573-4e94-8b03-342f90465064",
+    "name": "Blooming Marsh",
+    "set": "otj",
+    "collector_number": "266",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "colors": [],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "booster": true,
+    "image": "/cards/otj/861caabb-0573-4e94-8b03-342f90465064_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B} or {G}."
+  },
+  {
+    "id": "cc18d5f4-a56a-4f7d-9f56-ccc92cbfb7f7",
+    "name": "Botanical Sanctum",
+    "set": "otj",
+    "collector_number": "267",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/cc18d5f4-a56a-4f7d-9f56-ccc92cbfb7f7_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {U}."
+  },
+  {
+    "id": "b75df1f0-0513-40e4-a449-454f75de6434",
+    "name": "Concealed Courtyard",
+    "set": "otj",
+    "collector_number": "268",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "colors": [],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/b75df1f0-0513-40e4-a449-454f75de6434_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {B}."
+  },
+  {
+    "id": "85df6b6a-2dcf-4828-a4a8-e07d52e1fddd",
+    "name": "Inspiring Vantage",
+    "set": "otj",
+    "collector_number": "269",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "colors": [],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "booster": true,
+    "image": "/cards/otj/85df6b6a-2dcf-4828-a4a8-e07d52e1fddd_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {R} or {W}."
+  },
+  {
+    "id": "59a04e16-a767-4112-ab01-6ca1b09c286c",
+    "name": "Spirebluff Canal",
+    "set": "otj",
+    "collector_number": "270",
+    "rarity": "rare",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Land",
+    "colors": [],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/59a04e16-a767-4112-ab01-6ca1b09c286c_f.jpg",
+    "back_image": null,
+    "oracle_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {U} or {R}."
+  },
+  {
+    "id": "fd17e8d4-499e-4005-ae3c-bc9c44dc5a67",
+    "name": "Jace Reawakened",
+    "set": "otj",
+    "collector_number": "271",
+    "rarity": "mythic",
+    "layout": "normal",
+    "mana_cost": "{U}{U}",
+    "cmc": 2,
+    "type_line": "Legendary Planeswalker — Jace",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "booster": true,
+    "image": "/cards/otj/fd17e8d4-499e-4005-ae3c-bc9c44dc5a67_f.jpg",
+    "back_image": null,
+    "oracle_text": "You can't cast Jace Reawakened during your first, second, or third turns of the game.\n+1: Draw a card, then discard a card.\n+1: You may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted.\n−6: Until end of turn, whenever you cast a spell, copy it. You may choose new targets for the copy."
+  },
+  {
+    "id": "6f501773-1b39-4a4c-9b45-a950385c9e82",
+    "name": "Plains",
+    "set": "otj",
+    "collector_number": "277",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Basic Land — Plains",
+    "colors": [],
+    "color_identity": [
+      "W"
+    ],
+    "booster": false,
+    "image": "/cards/otj/6f501773-1b39-4a4c-9b45-a950385c9e82_f.jpg",
+    "back_image": null,
+    "oracle_text": "({T}: Add {W}.)"
+  },
+  {
+    "id": "acd6be3f-745c-41ad-95c9-1db66ba56be2",
+    "name": "Island",
+    "set": "otj",
+    "collector_number": "279",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Basic Land — Island",
+    "colors": [],
+    "color_identity": [
+      "U"
+    ],
+    "booster": false,
+    "image": "/cards/otj/acd6be3f-745c-41ad-95c9-1db66ba56be2_f.jpg",
+    "back_image": null,
+    "oracle_text": "({T}: Add {U}.)"
+  },
+  {
+    "id": "eb7dc259-9949-4673-a8f1-874396948392",
+    "name": "Swamp",
+    "set": "otj",
+    "collector_number": "281",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Basic Land — Swamp",
+    "colors": [],
+    "color_identity": [
+      "B"
+    ],
+    "booster": false,
+    "image": "/cards/otj/eb7dc259-9949-4673-a8f1-874396948392_f.jpg",
+    "back_image": null,
+    "oracle_text": "({T}: Add {B}.)"
+  },
+  {
+    "id": "9137b4aa-2289-4a4d-b1f5-ae75a0928278",
+    "name": "Mountain",
+    "set": "otj",
+    "collector_number": "283",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Basic Land — Mountain",
+    "colors": [],
+    "color_identity": [
+      "R"
+    ],
+    "booster": false,
+    "image": "/cards/otj/9137b4aa-2289-4a4d-b1f5-ae75a0928278_f.jpg",
+    "back_image": null,
+    "oracle_text": "({T}: Add {R}.)"
+  },
+  {
+    "id": "dc20a07e-5f92-49c2-9c97-d5eda536d3f6",
+    "name": "Forest",
+    "set": "otj",
+    "collector_number": "285",
+    "rarity": "common",
+    "layout": "normal",
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Basic Land — Forest",
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "booster": false,
+    "image": "/cards/otj/dc20a07e-5f92-49c2-9c97-d5eda536d3f6_f.jpg",
+    "back_image": null,
+    "oracle_text": "({T}: Add {G}.)"
+  }
+]

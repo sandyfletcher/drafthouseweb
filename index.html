@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DRAFTHOUSE</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- SETUP VIEW  -->
+    <section id="view-hero" class="active-view">
+        <div class="hero-overlay">
+            <h1>DRAFTHOUSE</h1>
+            <p>Booster Pack Simulator</p>
+            <div class="setup-controls">
+                <div class="set-picker">
+                    <label>Select Set:</label>
+                    <select id="set-select">
+                        <option value="otj">Outlaws of Thunder Junction</option>
+                        <option value="mkm">Murders at Karlov Manor</option>
+                    </select>
+                </div>
+                
+                <button id="btn-start-draft" class="btn btn-primary">ENTER DRAFT</button>
+            </div>
+        </div>
+        <!-- Background video or image goes here via CSS -->
+    </section>
+    <!-- DRAFT VIEW -->
+    <section id="view-draft" class="hidden">
+        <div id="opponents-area">
+            <!-- opponents injected here  -->
+        </div>
+        <div id="active-pack-area">
+            <div id="pack-container" class="card-grid">
+                <!-- cards injected here -->
+            </div>
+        </div>
+        <div id="player-area">
+            <div class="player-info">
+                <h3>Your Pool</h3>
+                <span id="pool-count">0 Cards</span>
+            </div>
+            <div id="player-hud-columns"></div>
+        </div>
+    </section>
+    <!--  DECK VIEW -->
+    <section id="view-builder" class="hidden">
+        <!-- HEADER: Stats & Tools -->
+        <header id="builder-header">
+            <div class="deck-stats">
+                <h2>Main Deck</h2>
+                <span id="main-count">0 / 40</span>
+                <span id="land-count-display">(0 Lands)</span>
+            </div>
+            <!-- Sort Controls -->
+            <div class="sort-controls">
+                <label>Sort:</label>
+                <div class="btn-group">
+                    <button class="btn btn-sm" id="sort-cmc" title="Sort by Cost">CMC</button>
+                    <button class="btn btn-sm" id="sort-color" title="Sort by Color">COL</button>
+                    <button class="btn btn-sm" id="sort-type" title="Sort by Type">TYP</button>
+                </div>
+            </div>
+            <div class="land-station">
+                <!-- White -->
+                <div class="land-control" data-type="Plains">
+                    <div class="mana-symbol bg-w"></div>  
+                    <span id="count-w">0</span> 
+                    <div class="btn-group">
+                        <button class="btn btn-sm btn-add">+</button>
+                        <button class="btn btn-sm btn-sub">-</button>
+                    </div>
+                </div>
+                <!-- Blue -->
+                <div class="land-control" data-type="Island">
+                    <div class="mana-symbol bg-u"></div>  
+                    <span id="count-u">0</span> 
+                    <div class="btn-group">
+                        <button class="btn btn-sm btn-add">+</button>
+                        <button class="btn btn-sm btn-sub">-</button>
+                    </div>
+                </div>
+                <!-- Black -->
+                <div class="land-control" data-type="Swamp">
+                    <div class="mana-symbol bg-b"></div>  
+                    <span id="count-b">0</span> 
+                    <div class="btn-group">
+                        <button class="btn btn-sm btn-add">+</button>
+                        <button class="btn btn-sm btn-sub">-</button>
+                    </div>
+                </div>
+                <!-- Red -->
+                <div class="land-control" data-type="Mountain">
+                    <div class="mana-symbol bg-r"></div>  
+                    <span id="count-r">0</span> 
+                    <div class="btn-group">
+                        <button class="btn btn-sm btn-add">+</button>
+                        <button class="btn btn-sm btn-sub">-</button>
+                    </div>
+                </div>
+                <!-- Green -->
+                <div class="land-control" data-type="Forest">
+                    <div class="mana-symbol bg-g"></div>  
+                    <span id="count-g">0</span> 
+                    <div class="btn-group">
+                        <button class="btn btn-sm btn-add">+</button>
+                        <button class="btn btn-sm btn-sub">-</button>
+                    </div>
+                </div>
+            </div>
+            <button id="btn-export-deck" class="btn btn-primary">EXPORT JSON</button>
+        </header>
+        <!-- MAIN DECK AREA (Solitaire Stacks) -->
+        <div id="main-deck-area">
+            <!-- Columns 0-6 injected by JS -->
+        </div>
+        <!-- DIVIDER -->
+        <div class="builder-divider">
+            <h3>Sideboard / Pool</h3>
+            <span id="side-count">0 Cards</span>
+        </div>
+        <!-- SIDEBOARD AREA (Grid) -->
+        <div id="sideboard-area" class="card-grid grid-start gap-sm">
+            <!-- Cards injected by JS -->
+        </div>
+    </section>
+    <!-- NOTIFICATION OVERLAY -->
+    <div id="notification-overlay" class="hidden">
+        <div class="notification-content">
+            <h2 id="notification-text">End of Pack 1</h2>
+        </div>
+    </div>
+    <!-- Scripts -->
+    <script type="module" src="js/main.js"></script>
+
+</body>
+</html>
