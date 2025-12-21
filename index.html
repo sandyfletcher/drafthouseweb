@@ -27,7 +27,6 @@
                 <button id="btn-start-draft" class="btn btn-primary">ENTER DRAFT</button>
             </div>
         </div>
-        <!-- Background video or image goes here via CSS -->
     </section>
     <!-- DRAFT VIEW -->
     <section id="view-draft" class="hidden">
@@ -49,14 +48,12 @@
     </section>
     <!--  DECK VIEW -->
     <section id="view-builder" class="hidden">
-        <!-- HEADER: Stats & Tools -->
         <header id="builder-header">
             <div class="deck-stats">
                 <h2>Main Deck</h2>
                 <span id="main-count">0 / 40</span>
                 <span id="land-count-display">(0 Lands)</span>
             </div>
-            <!-- Sort Controls -->
             <div class="sort-controls">
                 <label>Sort:</label>
                 <div class="btn-group">
@@ -114,28 +111,22 @@
             </div>
             <button id="btn-export-deck" class="btn btn-primary">EXPORT JSON</button>
         </header>
-        <!-- MAIN DECK AREA (Solitaire Stacks) -->
         <div id="main-deck-area">
-            <!-- Columns 0-6 injected by JS -->
+            <!-- columns injected here -->
         </div>
-        <!-- DIVIDER -->
         <div class="builder-divider">
             <h3>Sideboard / Pool</h3>
             <span id="side-count">0 Cards</span>
         </div>
-        <!-- SIDEBOARD AREA (Grid) -->
         <div id="sideboard-area" class="card-grid grid-start gap-sm">
-            <!-- Cards injected by JS -->
+            <!-- cards injected here -->
         </div>
     </section>
-    <!-- NOTIFICATION OVERLAY -->
     <div id="notification-overlay" class="hidden">
         <div class="notification-content">
             <h2 id="notification-text">End of Pack 1</h2>
         </div>
     </div>
-    <!-- Scripts -->
     <script type="module" src="js/main.js"></script>
-
 </body>
 </html>

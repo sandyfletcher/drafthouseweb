@@ -188,7 +188,6 @@ select:focus {
     animation: foilShine 4s ease-in-out infinite;
     z-index: 2;
 }
-
 @keyframes foilShine { 0% { background-position: 0% 50%; } 100% { background-position: 100% 50%; } }
 
 /* hero section */
@@ -402,7 +401,7 @@ select:focus {
     margin-bottom: 5px;
 }
 
-/* Land Station Control Panel */
+/* land station */
 .land-station {
     display: flex;
     gap: 10px;

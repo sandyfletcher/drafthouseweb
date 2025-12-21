@@ -108,12 +108,10 @@ async function fetchSetData() {
             });
             await sleep(20); 
         }
-
         console.log(`\nPROCESSED ${processedCards.length} CARDS`);
         fs.writeFileSync(OUTPUT_FILE, JSON.stringify(processedCards, null, 2));
     } catch (error) {
         console.error("\nERROR OCCURRED:", error.message);
     }
 }
-
 fetchSetData();
